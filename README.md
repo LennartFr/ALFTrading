@@ -1,7 +1,4 @@
-
-img
-
-<img src="/img/Amsterdam.png">                            
+img.md                           
 
 
 # ALFTrading
