@@ -1,5 +1,5 @@
 
-img/WS.png
+<img src="/img/Amsterdam.png">                            
 
 
 # ALFTrading
