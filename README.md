@@ -1,5 +1,5 @@
 
-<img src= "WS.jpg">
+<img src= "WS.png">
 
 
 # ALFTrading
