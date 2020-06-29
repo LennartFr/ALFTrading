@@ -1,5 +1,4 @@
-img.md                           
-
+                          
 <img src="WSJ.png">
 
 # ALFTrading
