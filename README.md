@@ -1,4 +1,6 @@
 
+img
+
 <img src="/img/Amsterdam.png">                            
 
 
