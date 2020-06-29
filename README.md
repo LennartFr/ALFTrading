@@ -1,5 +1,5 @@
 
-WS.png
+/img/WS.png
 
 
 # ALFTrading
