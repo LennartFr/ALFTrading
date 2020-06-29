@@ -1,6 +1,6 @@
 img.md                           
 
-WS.png
+<img src="WSJ.png">
 
 # ALFTrading
 An introduction to financial trading
