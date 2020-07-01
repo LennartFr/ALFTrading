@@ -1,5 +1,5 @@
 
-https://images.app.goo.gl/gefQwyBvpoGdBWrx8
+<img src="https://images.app.goo.gl/gefQwyBvpoGdBWrx8">
 
 # Stock Exchanges
 
