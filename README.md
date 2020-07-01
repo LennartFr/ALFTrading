@@ -15,7 +15,7 @@ An introduction to financial trading
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width='350' height='250'>
 
-
+https://youtu.be/WEDIj9JBTC8
 
 <img src="https://github.com/favicon.ico" width="48">
 
