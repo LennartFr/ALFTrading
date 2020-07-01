@@ -12,7 +12,7 @@ https://www.nasdaq.com/
 An introduction to financial trading
 
 
-
+    
 
 
 
