@@ -25,6 +25,19 @@ https://youtu.be/WEDIj9JBTC8
 # Mutual Funds and Index Funds
 An index fund (also index tracker) is a mutual fund or exchange-traded fund (ETF) designed to follow certain preset rules so that the fund can track a specified basket of underlying investments. Those rules may include tracking prominent indexes like the S&P 500 or the Dow Jones Industrial Average or implementation rules, such as tax-management, tracking error minimization, large block trading or patient/flexible trading strategies that allows for greater tracking error, but lower market impact costs. Index funds may also have rules that screen for social and sustainable criteria.
 
+https://youtu.be/1s7ULX45fjw
+
+
+https://youtu.be/vDz_OAU_uq4
+
+
+## Financial Crises
+
+The Great Depression
+
+2008
+
+2020
 
 
 
