@@ -35,7 +35,9 @@ https://youtu.be/vDz_OAU_uq4
 
 <a href="https://en.wikipedia.org/wiki/Great_Depression">The Great Depression</a>
 
-## The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across the world; in most countries, it started in 1929 and lasted until the late 1930s.[1] It was the longest, deepest, and most widespread depression of the 20th century
+## The Great Depression 
+
+was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across the world; in most countries, it started in 1929 and lasted until the late 1930s.[1] It was the longest, deepest, and most widespread depression of the 20th century
 
 
 
