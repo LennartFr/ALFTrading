@@ -1,3 +1,6 @@
+
+https://images.app.goo.gl/gefQwyBvpoGdBWrx8
+
 # Stock Exchanges
 
 https://www.nyse.com/index
