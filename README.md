@@ -5,6 +5,8 @@
 <img src="https://github.com/favicon.ico" width="48">
 
 
+
+
 # Stock Exchanges
 
 https://www.nyse.com/index
