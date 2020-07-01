@@ -1,6 +1,4 @@
-
-<img src="https://nasdaq.jpg">
-
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg">
 
 <img src="https://github.com/favicon.ico" width="48">
 
