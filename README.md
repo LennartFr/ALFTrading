@@ -14,7 +14,7 @@ An introduction to financial trading
 ##  https://www.nasdaq.com/
 
 
-<img src="https://www.nasdaq.com/market-activity">
+<img src="https://www.nasdaq.com/market-activity" height='500' width ='500'>
 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width='350' height='250'>
