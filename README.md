@@ -1,6 +1,6 @@
 
 
-<img src"="https://images.app.goo.gl/gefQwyBvpoGdBWrx8" width="100">
+<img src="https://images.app.goo.gl/" width="100">
 
 
 <img src="https://github.com/favicon.ico" width="48">
