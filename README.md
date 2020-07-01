@@ -33,13 +33,20 @@ https://youtu.be/vDz_OAU_uq4
 
 ## Financial Crises
 
-The Great Depression
+<a href="https://en.wikipedia.org/wiki/Great_Depression">The Great Depression</a>
 
-2008
-
-2020
+## The Great Depression was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across the world; in most countries, it started in 1929 and lasted until the late 1930s.[1] It was the longest, deepest, and most widespread depression of the 20th century
 
 
+
+
+
+
+## Economic Crisis 2007-2008
+
+https://en.wikipedia.org/wiki/Financial_crisis_of_2007–2008
+
+The financial crisis of 2007–2008, also known as the global financial crisis (GFC), was a severe worldwide financial crisis. Excessive risk-taking by banks[2] combined with a downturn in the subprime lending market in the United States culminated with the bankruptcy of Lehman Brothers on September 15, 2008 and an international banking crisis. The crisis sparked the Great Recession, a global recession, which, until the coronavirus recession, was the most severe recession since the Great Depression. It was also followed by the European debt crisis, which began with a deficit in Greece in late , and the 2008–2011 Icelandic financial crisis.
 
 
 
