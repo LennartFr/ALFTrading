@@ -1,5 +1,5 @@
 
-<img src="https://images.app.goo.gl/8eg2APXTPCiBepP49" width="100">
+<img src="https://nasdaq.jpg">
 
 
 <img src="https://github.com/favicon.ico" width="48">
