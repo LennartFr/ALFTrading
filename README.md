@@ -1,4 +1,4 @@
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width='250' height='200'>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width='350' height='200'>
 
 <img src="https://github.com/favicon.ico" width="48">
 
