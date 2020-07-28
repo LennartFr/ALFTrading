@@ -10,6 +10,12 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
+
+
+
+
+
 ## Active investment vs. passive investment	6
 
 ### You can not beat the market, at least not regularly.	6
@@ -68,6 +74,9 @@
 ## 5.1 Mutual Funds.	24
 ## 5.2.Index Funds	24
 5.3 ETF Funds	25
+
+
+
 5.4 Trading Individual Stocks	25
 
 5.5 Bonds	26
