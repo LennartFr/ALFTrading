@@ -1,68 +1,116 @@
-# ALFTrading
-An introduction to financial trading
-
-## Stock Exchanges
+# A beginner's introduction to investing.  v7
 
 
-## New York Stock Exchange
-##  https://www.nyse.com/index
+Contents
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/nyse.jpg" width='350' height='250'>
+Introduction	4
+Compound Interest.	4
+
+Active investment vs. passive investment	6
+
+You can not beat the market, at least not regularly.	6
+
+Chapter 1:  Stock exchanges, where we buy and sell shares	7
+
+NASDAQ	7
+
+The New York Stock Exchange	8
+
+Tokyo Stock Exchange	10
+
+Shanghai Stock Exchange (China)	11
+
+Euronext (Europe)	11
+
+London Stock Exchange Group (UK and Italy)	11
+
+Hong Kong Exchanges and Clearing Market.	11
+
+Shenzhen Stock Exchange (China)	11
+
+Deutsche Börse (AG Germany)	11
+
+Bombay Stock Exchange (India)	11
+
+Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
+
+Robo Traders	12
+
+Automated trading systems	13
+
+Trading Strategies	15
+
+ETFs and Mutual Funds	15
+
+Chapter 3: Le's trade on the stock market!	16
+
+How To Use Robinhood - Step by Step Tutorial	16
+
+Chapter 4: Stock Market Indexes	16
+
+S&P 500 Index	17
+
+Dow Jones Industrial Average
+17
+Russell 2000 index	17
+
+Chapter 5  Order Types, buying and selling index shares on the Stock market	18
+
+Chapter 6 Financial Crises	19
+
+Appendixes	20
+
+Appendix A:  Investment news sources	20
+
+Appendix B. Tax Implications for Investing in Stocks	21
+
+Appendix C:  Leading  Trading Apps	22
+
+5.1 Robinhood	22
+
+5.2 https://www.webull.com/	23
+
+5.3 https://www.tdameritrade.com	23
+
+Appendix D. Equities that can be traded on the stock market	24
+
+Primary investment objectives for beginner investor	24
+
+5.1 Mutual Funds.	24
+
+5.2.Index Funds	24
 
 
-## Nasdaq stock exchange
-##  https://www.nasdaq.com/
+5.3 ETF Funds	24
+
+5.4 Trading Individual Stocks	25
+
+5.5 Bonds	26
+
+Outside of focus for beginner investor	26
+
+5.6 Municipal Bonds	26
+
+5.7 Mutual Funds	26
+
+5.8 Annuities	27
+
+5.9 Certificates of Deposits (CDs)	27
 
 
-<img src="https://www.nasdaq.com/market-activity" height='500' width ='500'>
+5.10 Money Market Funds	27
 
+5.11 Commodity futures contracts	27
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width='350' height='250'>
+5.12 Hedge Funds	28
 
-https://youtu.be/WEDIj9JBTC8
+5.13 Real Estate Investment Trusts (REITs)	28
 
-<img src="https://github.com/favicon.ico" width="48">
+5.14 International Investing	28
 
+5.15 Private Equity	29
 
+5.15 Commodities	29
 
-## Mutual Funds and Index Funds
-An index fund (also index tracker) is a mutual fund or exchange-traded fund (ETF) designed to follow certain preset rules so that the fund can track a specified basket of underlying investments. Those rules may include tracking prominent indexes like the S&P 500 or the Dow Jones Industrial Average or implementation rules, such as tax-management, tracking error minimization, large block trading or patient/flexible trading strategies that allows for greater tracking error, but lower market impact costs. Index funds may also have rules that screen for social and sustainable criteria.
-
-https://youtu.be/1s7ULX45fjw
-
-
-https://youtu.be/vDz_OAU_uq4
-
-
-<a href="https://consumersadvocate.org/online-stock-brokers/a/best-online-stock-brokers">Top ten online stockbrokers</a>
-
-## Financial Crises
-
-<a href="https://en.wikipedia.org/wiki/Great_Depression">The Great Depression</a>
-
-## The Great Depression 
-
-was a severe worldwide economic depression that took place mostly during the 1930s, beginning in the United States. The timing of the Great Depression varied across the world; in most countries, it started in 1929 and lasted until the late 1930s.[1] It was the longest, deepest, and most widespread depression of the 20th century
-
-
-
-
-
-
-## Economic Crisis 2007-2008
-
-https://en.wikipedia.org/wiki/Financial_crisis_of_2007–2008
-
-The financial crisis of 2007–2008, also known as the global financial crisis (GFC), was a severe worldwide financial crisis. Excessive risk-taking by banks[2] combined with a downturn in the subprime lending market in the United States culminated with the bankruptcy of Lehman Brothers on September 15, 2008 and an international banking crisis. The crisis sparked the Great Recession, a global recession, which, until the coronavirus recession, was the most severe recession since the Great Depression. It was also followed by the European debt crisis, which began with a deficit in Greece in late , and the 2008–2011 Icelandic financial crisis.
-
-
-
-
-
-
-
-
-    
-
-
+https://money.cnn.com/data/commodities/	29
 
