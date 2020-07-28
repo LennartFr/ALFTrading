@@ -2,6 +2,8 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
 
+<img src="https://github.com/LennartFr/ALFTrading/blob/master"Compound-Interest-Calculator.png" witdh=500>
+
 # Contents
 
 # Introduction	4
