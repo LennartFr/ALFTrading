@@ -35,7 +35,7 @@
 ## Trading Strategies	15
 ## ETFs and Mutual Funds	15
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-what-is-a-etf.jpg" witdh=500>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
 # Chapter 3: Le's trade on the stock market!	16
 ## How To Use Robinhood - Step by Step Tutorial	16
