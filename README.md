@@ -26,83 +26,61 @@ Contents
 
 # Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
 
-Robo Traders	12
+## Robo Traders	12
 
-Automated trading systems	13
+## Automated trading systems	13
+## Trading Strategies	15
+## ETFs and Mutual Funds	15
 
-Trading Strategies	15
+# Chapter 3: Le's trade on the stock market!	16
+## How To Use Robinhood - Step by Step Tutorial	16
 
-ETFs and Mutual Funds	15
+# Chapter 4: Stock Market Indexes	16
+## S&P 500 Index	17
+## Dow Jones Industrial Average 17
+## Russell 2000 index	17
 
-Chapter 3: Le's trade on the stock market!	16
+# Chapter 5  Order Types, buying and selling index shares on the Stock market	18
 
-How To Use Robinhood - Step by Step Tutorial	16
+# Chapter 6 Financial Crises	19
 
-Chapter 4: Stock Market Indexes	16
+# Appendixes	20
 
-S&P 500 Index	17
+# Appendix A:  Investment news sources	20
 
-Dow Jones Industrial Average
-17
-Russell 2000 index	17
+# Appendix B. Tax Implications for Investing in Stocks	21
 
-Chapter 5  Order Types, buying and selling index shares on the Stock market	18
+# Appendix C:  Leading  Trading Apps	22
 
-Chapter 6 Financial Crises	19
+## 5.1 Robinhood	22
 
-Appendixes	20
+## 5.2 https://www.webull.com/	23
 
-Appendix A:  Investment news sources	20
+## 5.3 https://www.tdameritrade.com	23
 
-Appendix B. Tax Implications for Investing in Stocks	21
+# Appendix D. Equities that can be traded on the stock market	24
 
-Appendix C:  Leading  Trading Apps	22
+## Primary investment objectives for beginner investor	24
 
-5.1 Robinhood	22
-
-5.2 https://www.webull.com/	23
-
-5.3 https://www.tdameritrade.com	23
-
-Appendix D. Equities that can be traded on the stock market	24
-
-Primary investment objectives for beginner investor	24
-
-5.1 Mutual Funds.	24
-
-5.2.Index Funds	24
-
-
-5.3 ETF Funds	24
-
+## 5.1 Mutual Funds.	24
+## 5.2.Index Funds	24
+5.3 ETF Funds	25
 5.4 Trading Individual Stocks	25
 
 5.5 Bonds	26
 
-Outside of focus for beginner investor	26
+# Outside of focus for beginner investor	26
 
-5.6 Municipal Bonds	26
-
-5.7 Mutual Funds	26
-
-5.8 Annuities	27
-
-5.9 Certificates of Deposits (CDs)	27
-
-
-5.10 Money Market Funds	27
-
-5.11 Commodity futures contracts	27
-
-5.12 Hedge Funds	28
-
-5.13 Real Estate Investment Trusts (REITs)	28
-
-5.14 International Investing	28
-
-5.15 Private Equity	29
-
-5.15 Commodities	29
-
+## 5.6 Municipal Bonds	26
+## 5.7 Mutual Funds	26
+## 5.8 Annuities	27
+## 5.9 Certificates of Deposits (CDs)	27
+##5.10 Money Market Funds	27
+## 5.11 Commodity futures contracts	27
+## 5.12 Hedge Funds	28
+## 5.13 Real Estate Investment Trusts (REITs)	28
+## 5.14 International Investing	28
+## 5.15 Private Equity	29
+## 5.15 Commodities	29
 https://money.cnn.com/data/commodities/	29
 
