@@ -3,36 +3,28 @@
 
 Contents
 
-Introduction	4
-Compound Interest.	4
+# Introduction	4
 
-Active investment vs. passive investment	6
+## Compound Interest.	4
 
-You can not beat the market, at least not regularly.	6
+## Active investment vs. passive investment	6
 
-Chapter 1:  Stock exchanges, where we buy and sell shares	7
+### You can not beat the market, at least not regularly.	6
 
-NASDAQ	7
+# Chapter 1:  Stock exchanges, where we buy and sell shares	7
 
-The New York Stock Exchange	8
+## NASDAQ	7
+## The New York Stock Exchange	8
+## Tokyo Stock Exchange	10
+## Shanghai Stock Exchange (China)	11
+## Euronext (Europe)	11
+## London Stock Exchange Group (UK and Italy)	11
+## Hong Kong Exchanges and Clearing Market.	11
+## Shenzhen Stock Exchange (China)	11
+## Deutsche Börse (AG Germany)	11
+## Bombay Stock Exchange (India)	11
 
-Tokyo Stock Exchange	10
-
-Shanghai Stock Exchange (China)	11
-
-Euronext (Europe)	11
-
-London Stock Exchange Group (UK and Italy)	11
-
-Hong Kong Exchanges and Clearing Market.	11
-
-Shenzhen Stock Exchange (China)	11
-
-Deutsche Börse (AG Germany)	11
-
-Bombay Stock Exchange (India)	11
-
-Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
+# Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
 
 Robo Traders	12
 
