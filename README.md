@@ -2,13 +2,13 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
-
 # Contents
 
 # Introduction	4
 
 ## Compound Interest.	4
+
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
 ## Active investment vs. passive investment	6
 
