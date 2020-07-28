@@ -1,6 +1,6 @@
 # A beginner's introduction to investing.  v7
 
-https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg
+img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg"
 
 # Contents
 
