@@ -10,12 +10,6 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
-
-
-
-
-
 ## Active investment vs. passive investment	6
 
 ### You can not beat the market, at least not regularly.	6
@@ -40,6 +34,8 @@
 ## Automated trading systems	13
 ## Trading Strategies	15
 ## ETFs and Mutual Funds	15
+
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-what-is-a-etf.png" witdh=500>
 
 # Chapter 3: Le's trade on the stock market!	16
 ## How To Use Robinhood - Step by Step Tutorial	16
