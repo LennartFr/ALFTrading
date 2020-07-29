@@ -40,6 +40,10 @@
 # Chapter 3: Le's trade on the stock market!	16
 ## How To Use Robinhood - Step by Step Tutorial	16
 
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
+
+
+
 # Chapter 4: Stock Market Indexes	16
 ## S&P 500 Index	17
 ## Dow Jones Industrial Average 17
