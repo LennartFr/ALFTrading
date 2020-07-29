@@ -1,10 +1,13 @@
-# A beginner's introduction to investing.  v7
+# A beginner's introduction to investing. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
 
 # Contents
 
 # Introduction	4
+
+This little monograph is an  introduction to how you can start investing in the stock market.  The most important thing to keep in mind when we start  investing is that while we certainly can make money in the stock market , we can also lose money. 
+The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along
 
 ## Compound Interest.	4
 
