@@ -10,7 +10,11 @@ This little monograph is an  introduction to how you can start investing in the 
 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along
 
-## Compound Interest.	4
+## Compound Interest.	
+
+Compound interest is the most important principle of investing. It says that if you invest and actively keep investing over several years, the interest on your investment will grow exponentially, as the picture below illustrates. Of course, as always, you can also risk losing money.
+Your investment strategy should  be to minimize your losses and maximize your gains
+
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
