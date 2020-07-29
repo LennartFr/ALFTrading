@@ -29,7 +29,7 @@
 
 # Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
 
-## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-mpney.jpg" witdh=500>	12
+## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	12
 
 ## Automated trading systems	13
 ## Trading Strategies	15
