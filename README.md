@@ -106,5 +106,18 @@ https://money.cnn.com/data/commodities/	29
 
 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/blackrock.jpg" width=500>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/BlackRock.jpg" width=500>
+
+
+BlackRock, Inc. is an American global investment management corporation based in New York City. Founded in 1988, initially as a risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager, with $7.4 trillion in assets under management as of end-Q4 2019.[3] BlackRock operates globally with 70 offices in 30 countries and clients in 100 countries.[4] Due to its power, and the sheer size and scope of its financial assets and activities, BlackRock has been called the world's largest shadow bank.
+
+https://www.blackrock.com/us/individual
+
+
+7.2 Blackrock Alladin
+Aladdin is investment technology that brings efficiency and connectivity to institutional investors and wealth managers. The same technology that BlackRock relies on for investing, Aladdin provides clients with a common language across the investment lifecycle in both public and private assets and enables a culture of risk transparency among users. Aladdin technology empowers investors around the world to run with clarity.
+
+https://www.blackrock.com/aladdin
+
+
 
