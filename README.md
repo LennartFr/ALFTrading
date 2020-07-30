@@ -104,3 +104,7 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 ## 5.15 Commodities	29
 https://money.cnn.com/data/commodities/	29
 
+
+
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/blackrock.jpg" width=500>
+
