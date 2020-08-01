@@ -8,7 +8,9 @@
 
 <a hef="https://www.msn.com/en-us/money">Microsft Money News</a>
 
-<a href="https://money.cnn.com/data/markets/">CNN MarketNews
+<a href="https://finance.google.com/finance">Google Finance News</a>
+
+<a href="https://money.cnn.com/data/markets/">CNN MarketNews</a>
 
 # Introduction
 
