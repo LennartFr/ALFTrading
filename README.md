@@ -25,12 +25,12 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 ## Active investment vs. passive investment	
 Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved.
 
-### You can not beat the market, at least not regularly.	6
+### You can not beat the market, at least not regularly.	
 
 Over time the stock market will go up, as a result o the fact that most economies will grow overtime.
 It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourself. But it’s incredibly unlikely.
 
-# Chapter 1:  Stock exchanges, where we buy and sell shares	7
+# Chapter 1:  Stock exchanges, where we buy and sell shares	
 
 NASDAQ,	
 The New York Stock Exchange,	
@@ -54,7 +54,7 @@ Securities traded on a stock exchange include stock issued by listed companies, 
 Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
 
 
-## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	12
+## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
 ## Automated trading systems
 
@@ -64,71 +64,70 @@ An automated trading system (ATS), a subset of algorithmic trading, uses a compu
 
 Robo-advisors or robo-advisers are a class of financial adviser that provide financial advice or Investment management online with moderate to minimal human intervention. They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
-## Trading Strategies	15
+## Trading Strategies	
 
-## ETFs and Mutual Funds	15
+## ETFs and Mutual Funds	
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
-# Chapter 3: Let's trade on the stock market!	16
-## How To Use Robinhood - Step by Step Tutorial	16
+# Chapter 3: Let's trade on the stock market!	
+## How To Use Robinhood - Step by Step Tutorial	
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
 
 
 
-# Chapter 4: Stock Market Indexes	16
-## S&P 500 Index	17
-## Dow Jones Industrial Average 17
-## Russell 2000 index	17
+# Chapter 4: Stock Market Indexes	
+## S&P 500 Index	
+## Dow Jones Industrial Average 
+## Russell 2000 index	
 
-# Chapter 5  Order Types, buying and selling index shares on the Stock market	18
+# Chapter 5  Order Types, buying and selling index shares on the Stock market	
 
-# Chapter 6 Financial Crises	19
+# Chapter 6 Financial Crises	
 
-# Appendixes	20
+# Appendixes	
 
-# Appendix A:  Investment news sources	20
+# Appendix A:  Investment news sources	
 
-# Appendix B. Tax Implications for Investing in Stocks	21
+# Appendix B. Tax Implications for Investing in Stocks	
 
-# Appendix C:  Leading  Trading Apps	22
+# Appendix C:  Leading  Trading Apps	
 
-## 5.1 Robinhood	22
+## 5.1 Robinhood	
 
-## 5.2 https://www.webull.com/	23
+## 5.2 https://www.webull.com/	
 
-## 5.3 https://www.tdameritrade.com	23
+## 5.3 https://www.tdameritrade.com	
 
-# Appendix D. Equities that can be traded on the stock market	24
+# Appendix D. Equities that can be traded on the stock market	
 
-## Primary investment objectives for beginner investor	24
+## Primary investment objectives for beginner investor	
 
-## 5.1 Mutual Funds.	24
-## 5.2.Index Funds	24
-5.3 ETF Funds	25
+## 5.1 Mutual Funds.	
+## 5.2.Index Funds	
+5.3 ETF Funds	
 
 
 
-5.4 Trading Individual Stocks	25
+5.4 Trading Individual Stocks	
 
 5.5 Bonds	26
 
 # Outside of focus for beginner investor	26
 
-## 5.6 Municipal Bonds	26
-## 5.7 Mutual Funds	26
-## 5.8 Annuities	27
-## 5.9 Certificates of Deposits (CDs)	27
-##5.10 Money Market Funds	27
-## 5.11 Commodity futures contracts	27
-## 5.12 Hedge Funds	28
-## 5.13 Real Estate Investment Trusts (REITs)	28
-## 5.14 International Investing	28
-## 5.15 Private Equity	29
-## 5.15 Commodities	29
-https://money.cnn.com/data/commodities/	29
-
+## 5.6 Municipal Bonds	
+## 5.7 Mutual Funds	
+## 5.8 Annuities	
+## 5.9 Certificates of Deposits (CDs)	
+##5.10 Money Market Funds	
+## 5.11 Commodity futures contracts	
+## 5.12 Hedge Funds	
+## 5.13 Real Estate Investment Trusts (REITs)	
+## 5.14 International Investing	
+## 5.15 Private Equity	
+## 5.15 Commodities	
+https://money.cnn.com/data/commodities/	
 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/BlackRock.jpg" width=500>
@@ -138,11 +137,7 @@ BlackRock, Inc. is an American global investment management corporation based in
 
 https://www.blackrock.com/us/individual
 
-
-7.2 Blackrock Alladin
+Blackrock Alladin
 Aladdin is investment technology that brings efficiency and connectivity to institutional investors and wealth managers. The same technology that BlackRock relies on for investing, Aladdin provides clients with a common language across the investment lifecycle in both public and private assets and enables a culture of risk transparency among users. Aladdin technology empowers investors around the world to run with clarity.
 
 https://www.blackrock.com/aladdin
-
-
-
