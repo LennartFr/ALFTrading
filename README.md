@@ -107,16 +107,13 @@ They provide digital financial advice based on mathematical rules or algorithms.
 A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like RobinHood, Betterment and others.
 And the traditional brokerage housesare also embracing robo-advisors. 
 
-## 5.1 Robinhood	
+## Robinhood	
 
 ## Betterment
 
 ## https://www.m1finance.com/ 
 
-## 5.2 https://www.webull.com/	
-
-## 5.3 https://www.tdameritrade.com
-
+## https://www.webull.com/	
 
 https://youtu.be/fVGKrmNDQ7A
 
