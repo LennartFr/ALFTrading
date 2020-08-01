@@ -39,15 +39,24 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 # Chapter 1:  Stock exchanges, where we buy and sell shares	
 
 NASDAQ,	
-The New York Stock Exchange,	
-Tokyo Stock Exchange,	
-Shanghai Stock Exchange (China),	
-Euronext (Europe),	
-London Stock Exchange Group (UK and Italy),	
-Hong Kong Exchanges and Clearing Market,	
-Shenzhen Stock Exchange (China),	
-Deutsche Börse (AG Germany),	
-Bombay Stock Exchange (India),	
+The New York Stock Exchange,
+
+Tokyo Stock Exchange,
+
+Shanghai Stock Exchange (China),
+
+Euronext (Europe),
+
+London Stock Exchange Group (UK and Italy),
+
+Hong Kong Exchanges and Clearing Market,
+
+Shenzhen Stock Exchange (China),
+
+Deutsche Börse (AG Germany),
+
+Bombay Stock Exchange (India),
+
 
 ## Buying and selling stocks and shares on Stock Exchanges.	
 
