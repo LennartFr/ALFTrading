@@ -2,9 +2,11 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
 
-# Contents
+# Financial News
 
 <a href="https://finance.yahoo.com">Yahoo Finance</a>
+
+<a href="https://money.cnn.com/data/markets/">CNN MarketNews
 
 # Introduction
 
