@@ -70,6 +70,8 @@ An automated trading system (ATS), a subset of algorithmic trading, uses a compu
 
 Robo-advisors or robo-advisers are a class of financial adviser that provide financial advice or Investment management online with moderate to minimal human intervention. They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
+https://youtu.be/fVGKrmNDQ7A
+
 ## Trading Strategies	
 
 ## ETFs and Mutual Funds	
