@@ -45,15 +45,32 @@ Bombay Stock Exchange (India),
 
 # Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	
 
+A stock exchange, securities exchange, or bourse is a facility where stockbrokers and traders can buy and sell securities, such as shares of stock and bonds and other financial instruments. 
+
+Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. 
+
+Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. 
+
+Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
+
+
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	12
 
-## Automated trading systems	13
+## Automated trading systems
+
+An automated trading system (ATS), a subset of algorithmic trading, uses a computer program to create buy and sell orders and automatically submits the orders to a market center or exchange. The computer program will automatically generate orders based on predefined set of rules using a trading strategy which is based on technical analysis, advanced statistical and mathematical computations or input from other electronic sources.
+
+## Robo advisors
+
+Robo-advisors or robo-advisers are a class of financial adviser that provide financial advice or Investment management online with moderate to minimal human intervention. They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
+
 ## Trading Strategies	15
+
 ## ETFs and Mutual Funds	15
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
-# Chapter 3: Le's trade on the stock market!	16
+# Chapter 3: Let's trade on the stock market!	16
 ## How To Use Robinhood - Step by Step Tutorial	16
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
