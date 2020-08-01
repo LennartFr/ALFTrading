@@ -97,13 +97,15 @@ Collateral Lending Program,
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
-## Automated trading systems
+## Roboa-advisors
 
-An automated trading system (ATS), a subset of algorithmic trading, uses a computer program to create buy and sell orders and automatically submits the orders to a market center or exchange. The computer program will automatically generate orders based on predefined set of rules using a trading strategy which is based on technical analysis, advanced statistical and mathematical computations or input from other electronic sources.
+Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
+provide financial advice or Investment management online with moderate to minimal human intervention. 
 
-## Robo advisors
+They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
-Robo-advisors or robo-advisers are a class of financial adviser that provide financial advice or Investment management online with moderate to minimal human intervention. They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
+A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like RobinHood, Betterment and others.
+And the traditional brokerage housesare also embracing robo-advisors. 
 
 https://youtu.be/fVGKrmNDQ7A
 
@@ -113,12 +115,8 @@ https://youtu.be/fVGKrmNDQ7A
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
-
 https://youtu.be/OwpFBi-jZVg What is an ETF?
 
-
-# Chapter 3: Let's trade on the stock market!	
-## How To Use Robinhood - Step by Step Tutorial	
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
 
