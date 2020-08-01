@@ -105,7 +105,7 @@ https://youtu.be/OwpFBi-jZVg What is an ETF?
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
 
 
-# Chapter 4: Stock Market Indexes	
+# Stock Market Indexes	
 
 https://youtu.be/LxI12aUaabc Stock Market Indexes
 
@@ -118,9 +118,7 @@ https://youtu.be/LxI12aUaabc Stock Market Indexes
 # Chapter 6 Financial Crises	
 
 # Appendixes	
-
-# Appendix A:  Investment news sources	
-
+	
 # Appendix B. Tax Implications for Investing in Stocks	
 
 # Appendix C:  Leading  Trading Apps	
