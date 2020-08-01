@@ -70,6 +70,13 @@ Securities traded on a stock exchange include stock issued by listed companies, 
 Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
 
 
+https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
+
+https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
+
+https://youtu.be/_sPVwmGFAiA What is a dividend?
+
+
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
 ## Automated trading systems
@@ -88,6 +95,10 @@ https://youtu.be/fVGKrmNDQ7A
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
+
+https://youtu.be/OwpFBi-jZVg What is an ETF?
+
+
 # Chapter 3: Let's trade on the stock market!	
 ## How To Use Robinhood - Step by Step Tutorial	
 
@@ -95,6 +106,9 @@ https://youtu.be/fVGKrmNDQ7A
 
 
 # Chapter 4: Stock Market Indexes	
+
+https://youtu.be/LxI12aUaabc Stock Market Indexes
+
 ## S&P 500 Index	
 ## Dow Jones Industrial Average 
 ## Russell 2000 index	
