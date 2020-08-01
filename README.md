@@ -12,8 +12,6 @@ This little monograph is an  introduction to how you can start investing in the 
 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along
 
-7.2 Blackrock Alladin
-Aladdin is investment technology that brings efficiency and connectivity to institutional investors and wealth managers. The same technology that BlackRock relies on for investing, Aladdin provides clients with a common language across the investment lifecycle in both public and private assets and enables a culture of risk transparency among users. Aladdin technology empowers investors around the world to run with clarity.
 
 https://www.blackrock.com/aladdin
 
@@ -24,24 +22,28 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
-## Active investment vs. passive investment	6
+## Active investment vs. passive investment	
+Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved.
 
 ### You can not beat the market, at least not regularly.	6
 
+Over time the stock market will go up, as a result o the fact that most economies will grow overtime.
+It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourself. But it’s incredibly unlikely.
+
 # Chapter 1:  Stock exchanges, where we buy and sell shares	7
 
-## NASDAQ	7
-## The New York Stock Exchange	8
-## Tokyo Stock Exchange	10
-## Shanghai Stock Exchange (China)	11
-## Euronext (Europe)	11
-## London Stock Exchange Group (UK and Italy)	11
-## Hong Kong Exchanges and Clearing Market.	11
-## Shenzhen Stock Exchange (China)	11
-## Deutsche Börse (AG Germany)	11
-## Bombay Stock Exchange (India)	11
+NASDAQ,	
+The New York Stock Exchange,	
+Tokyo Stock Exchange,	
+Shanghai Stock Exchange (China),	
+Euronext (Europe),	
+London Stock Exchange Group (UK and Italy),	
+Hong Kong Exchanges and Clearing Market,	
+Shenzhen Stock Exchange (China),	
+Deutsche Börse (AG Germany),	
+Bombay Stock Exchange (India),	
 
-# Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	11
+# Chapter 2: Buying and selling stocks and shares on Stock Exchanges.	
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	12
 
