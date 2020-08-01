@@ -63,10 +63,10 @@ Deutsche Börse (AG Germany)</a>,
 
 So we begin by setting up an account at a brokerage house such as:
 
-# <a hef="https://www.tdameritrade.com/">TD Ameritrade</a>,
+# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>,
 # <a href="https://investor.vanguard.com/home">Vanguard</a>,
 # <a href="https://us.etrade.com/">E*TRADE</a>,
-# <a href="https://www.schwab.com/">Chals Schwab</a>
+# <a href="https://www.schwab.com/">Charles Schwab</a>
 
 
 
