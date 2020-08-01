@@ -59,15 +59,13 @@ Deutsche Börse (AG Germany)</a>,
 <a href="https://www.bseindia.com/">BSE, Bombay Stock Exchange (India)</a>,
 
 
-## Buying and selling stocks and shares on Stock Exchanges.	
+## We buy and sell shares on Stock Exchanges through brokerage houses.	
 
-A stock exchange, securities exchange, or bourse is a facility where stockbrokers and traders can buy and sell securities, such as shares of stock and bonds and other financial instruments. 
+So we begin by setting up an account at a brokerage house such as:
 
-Stock exchanges may also provide facilities for the issue and redemption of such securities and instruments and capital events including the payment of income and dividends. 
-
-Securities traded on a stock exchange include stock issued by listed companies, unit trusts, derivatives, pooled investment products and bonds. 
-
-Stock exchanges often function as "continuous auction" markets with buyers and sellers consummating transactions via open outcry at a central location such as the floor of the exchange or by using an electronic trading platform.
+<a hef="https://www.tdameritrade.com/">TD Ameritrade</a>
+<a href="https://investor.vanguard.com/home">Vanguard</a>
+<a href="https://us.etrade.com/">E*TRADE</a>
 
 
 https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
@@ -76,6 +74,24 @@ https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
 
 https://youtu.be/_sPVwmGFAiA What is a dividend?
 
+Once you have set up an account at a broker you can trade things like
+
+Stocks, 
+Options, 
+ETFs,
+Mutual Funds,
+Futures,
+Forex,
+Margin Trading,
+Cryptocurrency Trading,
+Managed Portfolios,
+Cash Solutions,
+Bonds & Fixed Income,
+Annuities,
+IPOs,
+Dividend Reinvestment,
+Collateral Lending Program,
+ through your broker Account
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
