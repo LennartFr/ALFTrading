@@ -6,7 +6,7 @@
 
 <a href="https://finance.yahoo.com">Yahoo Finance</a>
 
-<a hef="https://www.msn.com/en-us/money">Microsft Money News</a>
+<a hef="https://www.msn.com/en-us/news/money">Microsoft Money News</a>
 
 <a href="https://finance.google.com/finance">Google Finance News</a>
 
