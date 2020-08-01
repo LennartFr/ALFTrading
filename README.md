@@ -97,7 +97,7 @@ Collateral Lending Program,
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
-## Roboa-advisors
+## Robo-advisors
 
 Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
 provide financial advice or Investment management online with moderate to minimal human intervention. 
@@ -106,6 +106,16 @@ They provide digital financial advice based on mathematical rules or algorithms.
 
 A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like RobinHood, Betterment and others.
 And the traditional brokerage housesare also embracing robo-advisors. 
+
+## 5.1 Robinhood	
+
+## Betterment
+
+## M1
+## 5.2 https://www.webull.com/	
+
+## 5.3 https://www.tdameritrade.com
+
 
 https://youtu.be/fVGKrmNDQ7A
 
@@ -129,22 +139,15 @@ https://youtu.be/LxI12aUaabc Stock Market Indexes
 ## Dow Jones Industrial Average 
 ## Russell 2000 index	
 
-# Chapter 5  Order Types, buying and selling index shares on the Stock market	
+# Order Types, buying and selling index shares on the Stock market	
 
-# Chapter 6 Financial Crises	
+# Financial Crises	
 
 # Appendixes	
 	
 # Appendix B. Tax Implications for Investing in Stocks	
 
-# Appendix C:  Leading  Trading Apps	
-
-## 5.1 Robinhood	
-
-## 5.2 https://www.webull.com/	
-
-## 5.3 https://www.tdameritrade.com	
-
+	
 # Appendix D. Equities that can be traded on the stock market	
 
 ## Primary investment objectives for beginner investor	
