@@ -71,6 +71,14 @@ So we begin by setting up an account at a brokerage house such as:
 Yyu can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
 <a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
 
+The major difference is that the newer financial services companies utilize the latest IT technologies in the form of ## Robo-advisors
+
+Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
+provide digital financial advice based on mathematical algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
+
+The success of the robo-avise technology has let the traditional brokerhouses to lso adopt the new computerized technologies.
+
+## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
 
 Some Good introductory Youtube videos:
@@ -82,23 +90,6 @@ https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
 https://youtu.be/_sPVwmGFAiA What is a dividend?
 
 Once you have set up an account at a broker you can trade things like
-
-
-## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
-
-## Robo-advisors
-
-Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
-provide financial advice or Investment management online with moderate to minimal human intervention. 
-
-They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
-
-A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like 
-Hood, Betterment and others.
-And the traditional brokerage housesare also embracing robo-advisors. 
-
-
-	
 
 https://youtu.be/fVGKrmNDQ7A
 
