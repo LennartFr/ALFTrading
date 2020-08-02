@@ -46,15 +46,15 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
-Euronext (Europe),</a>
+<a href="https://www.euronext.com/enEuronext</a>
 
 London Stock Exchange Group (UK and Italy),</a>
 
 Hong Kong Exchanges and Clearing Market,</a>
 
-Shenzhen Stock Exchange (China)</a>,
+<a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
 
-Deutsche Börse (AG Germany)</a>,
+<a href="https://www.deutsche-boerse.com/dbg-en/">Deutsche Börse Gemany</a>,
 
 <a href="https://www.bseindia.com/">BSE, Bombay Stock Exchange (India)</a>,
 
