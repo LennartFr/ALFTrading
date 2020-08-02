@@ -38,19 +38,19 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 # Stock Exchanges, where we buy and sell shares	
 
-<a href="https://www.nasdaq.com/">NASDAQ</a> in New York City,	
+## <a href="https://www.nasdaq.com/">NASDAQ</a> in New York City,	
 
-<a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
+## <a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
 
-<a href="https://www.jpx.co.jp/english/">Tokyo Stock Exchange</a>,
+## <a href="https://www.jpx.co.jp/english/">Tokyo Stock Exchange</a>,
 
-<a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
+## <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
-<a href="https://www.euronext.com/enEuronext</a>
+##<a href="https://www.euronext.com/enEuronext</a>
 
-London Stock Exchange Group (UK and Italy),</a>
+## London Stock Exchange Group (UK and Italy),</a>
 
-Hong Kong Exchanges and Clearing Market,</a>
+## Hong Kong Exchanges and Clearing Market,</a>
 
 <a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
 
@@ -67,7 +67,9 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://investor.vanguard.com/home">Vanguard</a>,
 # <a href="https://us.etrade.com/">E*TRADE</a>,
 # <a href="https://www.schwab.com/">Charles Schwab</a>
-	
+
+Brokers from authorized broeragehouses dothe actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage accont that you haveset upwith the brokerage firm.
+
 Yyu can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
 <a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
 
