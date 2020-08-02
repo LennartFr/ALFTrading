@@ -36,11 +36,11 @@ Active investing refers to an investment strategy that involves ongoing buying a
 Over time the stock market will go up, as a result o the fact that most economies will grow overtime.
 It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourself. But it’s incredibly unlikely.
 
-# Chapter 1:  Stock exchanges, where we buy and sell shares	
+# Stock Exchanges, where we buy and sell shares	
 
-<a href="https://www.nasdaq.com/">NASDAQ</a>,	
+<a href="https://www.nasdaq.com/">NASDAQ</a> in New York City,	
 
-<a href="https://www.nyse.com/index">The New York Stock Exchange</a>,
+<a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
 
 <a href="https://www.jpx.co.jp/english/">Tokyo Stock Exchange</a>,
 
@@ -67,14 +67,13 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://investor.vanguard.com/home">Vanguard</a>,
 # <a href="https://us.etrade.com/">E*TRADE</a>,
 # <a href="https://www.schwab.com/">Charles Schwab</a>
-
-But instead of setting upan account at a brokerage house you can set up an account at a low-cost financial services omapny like
-
-Robinhood, Betterment or M1 and essentialy do the same thing.
-
+	
+Yyu can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
+<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
 
 
-Some Good Youtube videos
+
+Some Good introductory Youtube videos:
 
 https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
 
@@ -83,27 +82,6 @@ https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
 https://youtu.be/_sPVwmGFAiA What is a dividend?
 
 Once you have set up an account at a broker you can trade things like
-
-Stocks, 
-Options, 
-ETFs,
-Mutual Funds,
-Futures,
-Forex,
-Margin Trading,
-Cryptocurrency Trading,
-Managed Portfolios,
-Cash Solutions,
-Bonds & Fixed Income,
-Annuities,
-IPOs,
-Dividend Reinvestment,
-Collateral Lending Program,
- through your broker Account
-
-
-
-
 
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
@@ -192,5 +170,30 @@ https://www.blackrock.com/us/individual
 
 Blackrock Alladin
 Aladdin is investment technology that brings efficiency and connectivity to institutional investors and wealth managers. The same technology that BlackRock relies on for investing, Aladdin provides clients with a common language across the investment lifecycle in both public and private assets and enables a culture of risk transparency among users. Aladdin technology empowers investors around the world to run with clarity.
+
+
+
+
+
+
+
+Stocks, 
+Options, 
+ETFs,
+Mutual Funds,
+Futures,
+Forex,
+Margin Trading,
+Cryptocurrency Trading,
+Managed Portfolios,
+Cash Solutions,
+Bonds & Fixed Income,
+Annuities,
+IPOs,
+Dividend Reinvestment,
+Collateral Lending Program,
+ through your broker Account
+
+
 
 https://www.blackrock.com/aladdin
