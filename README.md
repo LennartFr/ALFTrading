@@ -68,7 +68,13 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://us.etrade.com/">E*TRADE</a>,
 # <a href="https://www.schwab.com/">Charles Schwab</a>
 
+But instead of setting upan account at a brokerage house you can set up an account at a low-cost financial services omapny like
 
+Robinhood, Betterment or M1 and essentialy do the same thing.
+
+
+
+Some Good Youtube videos
 
 https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
 
@@ -95,6 +101,11 @@ Dividend Reinvestment,
 Collateral Lending Program,
  through your broker Account
 
+
+
+
+
+
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
 ## Robo-advisors
@@ -104,16 +115,12 @@ provide financial advice or Investment management online with moderate to minima
 
 They provide digital financial advice based on mathematical rules or algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
-A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like RobinHood, Betterment and others.
+A new generaton of low-cost  financial services services companies based on robo-advisors have also appeared with names like 
+Hood, Betterment and others.
 And the traditional brokerage housesare also embracing robo-advisors. 
 
-## Robinhood	
 
-## Betterment
-
-## https://www.m1finance.com/ 
-
-## https://www.webull.com/	
+	
 
 https://youtu.be/fVGKrmNDQ7A
 
