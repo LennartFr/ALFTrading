@@ -29,7 +29,7 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
 ## Active investment vs. passive investment	
-Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved.
+Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading.
 
 ### You can not beat the market, at least not regularly.	
 
@@ -68,15 +68,15 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://us.etrade.com/">E*TRADE</a>,
 # <a href="https://www.schwab.com/">Charles Schwab</a>
 
-Brokers from authorized broeragehouses dothe actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage accont that you haveset upwith the brokerage firm.
+Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
-Yyu can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
+Yuo can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
 <a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
 
-The major difference is that the newer financial services companies utilize the latest IT technologies in the form of ## Robo-advisors
+The major difference is that the newer financial services companies utilize the latest IT technologies in the form of low-cost Robo-advisors
 
 Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
-provide digital financial advice based on mathematical algorithms. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
+provide digital financial advice based on mathematical algorithms have become increasingly prevalent. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
 The success of the robo-avise technology has let the traditional brokerhouses to lso adopt the new computerized technologies.
 
