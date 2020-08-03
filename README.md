@@ -1,6 +1,6 @@
 # Introduction to trading. 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaaq1.jpg" witdh=600>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
 
 This little monograph is an  introduction to how you can start investing in the stock market.  The most important thing to keep in mind when we start  investing is that while we certainly can make money in the stock market , we can also lose money. 
