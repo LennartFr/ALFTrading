@@ -124,9 +124,8 @@ An exchange-traded fund is an investment fund traded on stock exchanges, much li
 Invesco QQQ is an exchange-traded fund based on the Nasdaq-100 Index®. The Fund will, under most circumstances, consist of all of stocks in the Index. The Index includes 100 of the largest domestic and international nonfinancial companies listed on the Nasdaq Stock Market based on market capitalization. The Fund and the Index are rebalanced quarterly and reconstituted annually.
 
 Expect More Success in the Long Run.
-One thing is clear to me: As long as the market retains some semblance of sanity, we should expect QQQ ETF to continue its upward trajectory. While it might not defeat the current leader in the best ETFs contest — the <a href="Global X Cloud Computing Fund (NASDAQ:CLOU) — it certainly has plenty of holdings that have proven themselves plenty durable in the post-Covid-19 market.
 
-It’s possible that a second wave of coronavirus could put a dent in the fund’s recent gains, but outside of that or another major market shakeup, I think QQQ is likely to continue its recovery.
+<a href="https://www.investopedia.com/articles/etfs/top-etfs-nasdaq/">Best (and only ) ETF to Track the Nasdaq for Q2 2020 </a>
 
 <a hrwef="https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp">4 ETFs With FANG Stocks </a.
 
