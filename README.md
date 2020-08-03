@@ -121,6 +121,17 @@ An index fund (also index tracker) is a mutual fund or exchange-traded fund (ETF
 An exchange-traded fund is an investment fund traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur. Most ETFs track an index, such as a stock index or bond index. ETFs may be attractive as investments because of their low costs, tax efficiency, and stock-like features 
 
 
+Invesco QQQ is an exchange-traded fund based on the Nasdaq-100 Index®. The Fund will, under most circumstances, consist of all of stocks in the Index. The Index includes 100 of the largest domestic and international nonfinancial companies listed on the Nasdaq Stock Market based on market capitalization. The Fund and the Index are rebalanced quarterly and reconstituted annually.
+
+Expect More Success in the Long Run.
+One thing is clear to me: As long as the market retains some semblance of sanity, we should expect QQQ ETF to continue its upward trajectory. While it might not defeat the current leader in the best ETFs contest — the <a href="Global X Cloud Computing Fund (NASDAQ:CLOU) — it certainly has plenty of holdings that have proven themselves plenty durable in the post-Covid-19 market.
+
+It’s possible that a second wave of coronavirus could put a dent in the fund’s recent gains, but outside of that or another major market shakeup, I think QQQ is likely to continue its recovery.
+
+<a href="https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=QQQ">Invesco QQQ Trust (QQQ)</a>
+
+<a hreef="https://www.marketwatch.com/investing/fund">Global X Cloud Computing ETF</a>
+
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
 https://youtu.be/OwpFBi-jZVg What is an ETF?
