@@ -54,7 +54,7 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 ## <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
 ## <a href="https://www.euronext.com/enEuronext">Euronext</a>
-
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq.jpg" width=500>
 ## <a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
 
 ## <a href="https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
@@ -76,10 +76,9 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://www.schwab.com/">Charles Schwab</a>
 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/zoom.jpg" witdh=500>
-
-
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
+
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.jpg" width=500>
 
 Yuo can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
 <a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
