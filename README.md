@@ -81,7 +81,7 @@ Brokers from authorized brokeragehouses do the actual buying and selling on the 
 
 ROBINHOOD==========================
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.jpg" width=500>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/zoom.jpg" witdh=500>
 
