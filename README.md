@@ -109,15 +109,15 @@ https://youtu.be/fVGKrmNDQ7A
 
 What can we trade on the stockmarket?
 
-We don't usually trade individual stocks. nstead we trade something called Mutual Funds, Indexes and ETF's which stands for "Exchangnge Traded Funds".	
+We don't usually trade individual stocks. nstead we trade something called Funds, Indexes and ETF's which stands for "Exchangnge Traded Funds".	
 
-## 5.1 Mutual Funds. 
+## Mutual Funds. 
 A mutual fund is an open-end professionally managed investment fund that pools money from many investors to purchase securities. These investors may be retail or institutional in nature. The term is typically used in the United States, Canada, and India, while similar structures across the globe include the SICAV in Europe ('investment company with variable capital') and open-ended investment company (OEIC) in the UK.
 
-## 5.2.Index Funds. 
+## Index Funds. 
 An index fund (also index tracker) is a mutual fund or exchange-traded fund (ETF) designed to follow certain preset rules so that the fund can track a specified basket of underlying investments. Those rules may include tracking prominent indexes like the S&P 500 or the Dow Jones Industrial Average or implementation rules, such as tax-management, tracking error minimization, large block trading or patient/flexible trading strategies that allows for greater tracking error, but lower market impact costs. Index funds may also have rules that screen for social and sustainable criteria.	
 
-## 5.3 ETF Funds. 
+## ETF Funds. 
 An exchange-traded fund is an investment fund traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur. Most ETFs track an index, such as a stock index or bond index. ETFs may be attractive as investments because of their low costs, tax efficiency, and stock-like features 
 
 
