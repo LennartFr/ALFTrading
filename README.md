@@ -1,6 +1,6 @@
 # Introduction to trading. 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/zoom.jpg" witdh=500>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/zoom.jpg" witdh=500>
 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
