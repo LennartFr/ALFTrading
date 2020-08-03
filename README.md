@@ -23,7 +23,7 @@ The best strategy for the beginner is therefore to minimize the risks of losing 
 
 <a href="https://www.thestreet.com/">The Street</a>
 
-# Trading concepts
+# Trading concepts  
 
 ## Compound Interest.	
 
