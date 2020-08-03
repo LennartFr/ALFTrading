@@ -47,6 +47,8 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 ## <a href="https://www.nasdaq.com/">NASDAQ</a> in New York City,	
 
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=500>
+
 ## <a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
 
 ## <a href="https://www.jpx.co.jp/english/">Tokyo Stock Exchange</a>,
