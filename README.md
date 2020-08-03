@@ -56,7 +56,7 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 ## <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
 ## <a href="https://www.euronext.com/enEuronext">Euronext</a>
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq.jpg" width=500>
+
 ## <a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
 
 ## <a href="https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
