@@ -46,17 +46,17 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 ## <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
-##<a href="https://www.euronext.com/enEuronext>Euronext</a>
+## <a href="https://www.euronext.com/enEuronext>Euronext</a>
 
-##<a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
+## <a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
 
-##<a href"https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
+## <a href"https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
 
-<a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
+## <a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
 
-<a href="https://www.deutsche-boerse.com/dbg-en/">Deutsche Börse Gemany</a>,
+## <a href="https://www.deutsche-boerse.com/dbg-en/">Deutsche Börse Gemany</a>,
 
-<a href="https://www.bseindia.com/">BSE, Bombay Stock Exchange (India)</a>,
+## <a href="https://www.bseindia.com/">BSE, Bombay Stock Exchange (India)</a>,
 
 
 ## We buy and sell shares on Stock Exchanges through brokerage houses.	
