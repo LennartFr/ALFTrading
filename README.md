@@ -50,7 +50,7 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 ## <a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
 
-## <a href"https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
+## <a href="https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
 
 ## <a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
 
@@ -97,7 +97,14 @@ https://youtu.be/fVGKrmNDQ7A
 
 ## Trading Strategies	
 
-## ETFs and Mutual Funds	
+What can we trade on the stockmarket?
+
+We don't usually trade individual stocks. nstead we trade something called Mutual Funds, Indexes and ETF's which stands for "Exchangnge Traded Funds".	
+
+## 5.1 Mutual Funds.	
+## 5.2.Index Funds	
+5.3 ETF Funds
+
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
@@ -106,8 +113,7 @@ https://youtu.be/OwpFBi-jZVg What is an ETF?
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
 
-
-# Stock Market Indexes	
+Let;s take a look at some well-known Stock Market IndexesIndexes
 
 https://youtu.be/LxI12aUaabc Stock Market Indexes
 
@@ -126,11 +132,7 @@ https://youtu.be/LxI12aUaabc Stock Market Indexes
 	
 # Appendix D. Equities that can be traded on the stock market	
 
-## Primary investment objectives for beginner investor	
-
-## 5.1 Mutual Funds.	
-## 5.2.Index Funds	
-5.3 ETF Funds	
+	
 
 
 
