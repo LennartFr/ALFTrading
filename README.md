@@ -99,7 +99,7 @@ Some Good introductory Youtube videos:
 https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
 
 https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
-
+    
 https://youtu.be/_sPVwmGFAiA What is a dividend?
 
 Once you have set up an account at a broker you can trade things like
