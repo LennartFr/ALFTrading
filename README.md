@@ -73,7 +73,7 @@ So we begin by setting up an account at a brokerage house such as:
 # <a href="https://www.schwab.com/">Charles Schwab</a>
 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Zoom.png" witdh=500>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/zoom.png" witdh=500>
 
 
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
