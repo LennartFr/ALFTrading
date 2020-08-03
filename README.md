@@ -128,60 +128,10 @@ One thing is clear to me: As long as the market retains some semblance of sanity
 
 It’s possible that a second wave of coronavirus could put a dent in the fund’s recent gains, but outside of that or another major market shakeup, I think QQQ is likely to continue its recovery.
 
+<a hrwef="https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp">4 ETFs With FANG Stocks </a.
+
+
 <a href="https://www.globalxetfs.com/funds/clou/">Cloud Computer ETF</a>
-
-Top Holdings 
-
-Company	Symbol	% of total net assets	YTD
-
-Microsoft Corp.	MSFT	1.82	37.31
-
-2U Inc.	TWOU	2.01	100.75
-
-Cornerstone OnDemand Inc.	CSOD	2.05	-38.27
-
-Mimecast Ltd.	MIME	2.17	7.95
-
-SPS Commerce Inc.	SPSC	2.19	34.09
-
-Box Inc. Cl A	BOX	2.61	7.69
-
-Proofpoint Inc.	PFPT	2.92	-0.38
-
-Digital Realty Trust Inc.	DLR	3.05	34.17
-
-Qualys Inc.	QLYS	3.16	48.15
-
-RealPage Inc.	RP	3.23	16.87
-
-Dropbox Inc.	DBX	3.32	29.31
-Netflix Inc.	NFLX	3.47	54.10
-
-Akamai Technologies Inc.	AKAM	3.51	30.79
-
-Anaplan Inc.	PLAN	3.55	-14.14
-
-Salesforce.com Inc.	CRM	3.7	24.93
-
-Paycom Software Inc.	PAYC	3.8	8.81
-
-Xero Ltd ORD	n/a	3.82	n/a
-
-Workday Inc. Cl A	WDAY	3.9	10.42
-
-Everbridge Inc.	EVBG	3.96	86.81
-
-Paylocity Holding Corp.	PCTY	4.08	11.53
-
-Shopify Inc. Cl A	SHOP	4.8	172.41
-
-Coupa Software Inc.	COUP	5.04	113.91
- 
-ZscalerInc.	ZS	5.23	185.12
-
-Zoom Video Communications Inc.	ZM	6.01	293.89
-
-Twilio Inc. Cl A	TWLO	6.26	191.34
 
 <a href="https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=QQQ">Invesco QQQ Trust (QQQ)</a>
 
