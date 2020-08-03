@@ -81,8 +81,8 @@ Brokers from authorized brokeragehouses do the actual buying and selling on the 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
 
-Yuo can also bypass the brokerage houses and set up an account with a low-cost financial services company like
-<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
+You can also bypass the brokerage houses and set up an account with a low-cost financial services company like
+<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/">Betterment</a> or M1 and essentialy do the same thing.
 
 The major difference is that the newer financial services companies utilize the latest IT technologies in the form of low-cost Robo-advisors
 
