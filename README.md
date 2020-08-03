@@ -79,13 +79,7 @@ So we begin by setting up an account at a brokerage house such as:
 
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
-ROBINHOOD==========================
-
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
-
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/zoom.jpg" witdh=500>
-
-======================================
 
 Yuo can also bypass the brokerage houses and set up an account with a low-cost financial services omapny like
 <a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/:Betterment</a> or M1 and essentialy do the same thing.
