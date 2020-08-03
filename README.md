@@ -1,4 +1,4 @@
-# Introduction to investing. 
+# Introduction to trading. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/nasdaq.jpg" width=500>
 
@@ -20,6 +20,10 @@ The best strategy for the beginner is therefore to minimize the risks of losing 
 <a href="https://www.nzz.ch/finanzen">NZZ</a>
 
 <a href="https://www.bing.com/search?q=stock+market+news">Bing Stock Market News</a>
+
+<a href="https://www.thestreet.com/">The Street</a>
+
+# Trading concepts
 
 ## Compound Interest.	
 
@@ -82,7 +86,6 @@ The success of the robo-avise technology has let the traditional brokerhouses to
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
-
 Some Good introductory Youtube videos:
 
 https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
@@ -101,9 +104,11 @@ What can we trade on the stockmarket?
 
 We don't usually trade individual stocks. nstead we trade something called Mutual Funds, Indexes and ETF's which stands for "Exchangnge Traded Funds".	
 
-## 5.1 Mutual Funds.	
-## 5.2.Index Funds	
-## 5.3 ETF Funds
+## 5.1 Mutual Funds. A mutual fund is an open-end professionally managed investment fund that pools money from many investors to purchase securities. These investors may be retail or institutional in nature. The term is typically used in the United States, Canada, and India, while similar structures across the globe include the SICAV in Europe ('investment company with variable capital') and open-ended investment company (OEIC) in the UK.
+
+## 5.2.Index Funds. An index fund (also index tracker) is a mutual fund or exchange-traded fund (ETF) designed to follow certain preset rules so that the fund can track a specified basket of underlying investments. Those rules may include tracking prominent indexes like the S&P 500 or the Dow Jones Industrial Average or implementation rules, such as tax-management, tracking error minimization, large block trading or patient/flexible trading strategies that allows for greater tracking error, but lower market impact costs. Index funds may also have rules that screen for social and sustainable criteria.	
+
+## 5.3 ETF Funds. An exchange-traded fund is an investment fund traded on stock exchanges, much like stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep it trading close to its net asset value, although deviations can occasionally occur. Most ETFs track an index, such as a stock index or bond index. ETFs may be attractive as investments because of their low costs, tax efficiency, and stock-like features 
 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
