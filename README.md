@@ -103,7 +103,7 @@ We don't usually trade individual stocks. nstead we trade something called Mutua
 
 ## 5.1 Mutual Funds.	
 ## 5.2.Index Funds	
-5.3 ETF Funds
+## 5.3 ETF Funds
 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
