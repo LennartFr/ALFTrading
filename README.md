@@ -127,7 +127,7 @@ Expect More Success in the Long Run.
 
 <a href="https://www.investopedia.com/articles/etfs/top-etfs-nasdaq/">Best (and only ) ETF to Track the Nasdaq for Q2 2020 </a>
 
-<a hrwef="https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp">4 ETFs With FANG Stocks </a.
+<a href="https://www.investopedia.com/articles/etfs-mutual-funds/080516/4-etfs-fang-stocks-fdnpnqiqqqskyy.asp">4 ETFs With FANG Stocks </a.
 
 
 <a href="https://www.globalxetfs.com/funds/clou/">Cloud Computer ETF</a>
