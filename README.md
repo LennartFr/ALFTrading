@@ -141,7 +141,7 @@ Expect More Success in the Long Run.
 https://youtu.be/OwpFBi-jZVg What is an ETF?
 
 
-## Fractional Trading
+## Fractional Shares and Fractional Trading
 
 The easiest way to think about fractional trading is what happens without it. Without fractional trading the smallest amount you can buy of an investment is generally a single share. For big investors and institutions that’s generally fine, they are trading in amounts where they are always buying large amounts of shares and so the need to buy less than a share seldom happens. However, for a smaller investor, especially one looking to diversify, buying companies with share prices over $1,000 becomes a major undertaking.
 
