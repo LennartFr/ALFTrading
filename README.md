@@ -141,6 +141,14 @@ Expect More Success in the Long Run.
 https://youtu.be/OwpFBi-jZVg What is an ETF?
 
 
+## Fractional Trading
+
+The easiest way to think about fractional trading is what happens without it. Without fractional trading the smallest amount you can buy of an investment is generally a single share. For big investors and institutions that’s generally fine, they are trading in amounts where they are always buying large amounts of shares and so the need to buy less than a share seldom happens. However, for a smaller investor, especially one looking to diversify, buying companies with share prices over $1,000 becomes a major undertaking.
+
+With fractional trading you don’t need to do that. Rather than fork out almost $3,000 for a share of Amazon AMZN -0.5%, for example, you can now just purchase an amount less than that. If you want $100 of Amazon, you can buy it and you’ll end up with fraction of a share of Amazon. That is to say that you’ll pay your $100 and you’ll receive about 0.038 of an Amazon share at the time of writing. Then that fraction of a share will move just as other Amazon shares do.
+
+https://www.forbes.com/sites/simonmoore/2020/06/27/what-is-fractional-trading/#6e61d0571de3
+
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/robinhood.png" witdh=500>
 
 Let;s take a look at some well-known Stock Market IndexesIndexes
