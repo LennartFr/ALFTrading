@@ -65,9 +65,6 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 ## <a href="https://www.deutsche-boerse.com/dbg-en/">Deutsche Börse Gemany</a>,
 
-## <a href="https://www.bseindia.com/">BSE, Bombay Stock Exchange (India)</a>,
-
-
 ## We buy and sell shares on Stock Exchanges through brokerage houses.	
 
 So we begin by setting up an account at a brokerage house such as:
@@ -82,14 +79,14 @@ Brokers from authorized brokeragehouses do the actual buying and selling on the 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
 
 You can also bypass the brokerage houses and set up an account with a low-cost financial services company like
-<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/">Betterment</a> or M1 and essentialy do the same thing.
+<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/">Betterment</a> or M1 and essentially do the same thing.
 
-The major difference is that the newer financial services companies utilize the latest IT technologies in the form of low-cost Robo-advisors
+The major difference is that the newer financial services companies utilize the latest IT technologies in the form of low-cost Robo-advisors.
 
 Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
 provide digital financial advice based on mathematical algorithms have become increasingly prevalent. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
 
-The success of the robo-avise technology has let the traditional brokerhouses to lso adopt the new computerized technologies.
+The success of the robo-avise technology has let the traditional brokerhouses to also adopt the new technologies.
 
 ## <img src="https://github.com/LennartFr/ALFTrading/blob/master/Robo-advisor-money.jpg" witdh=500>	
 
@@ -109,7 +106,7 @@ https://youtu.be/fVGKrmNDQ7A
 
 What can we trade on the stockmarket?
 
-We don't usually trade individual stocks. nstead we trade something called Funds, Indexes and ETF's which stands for "Exchangnge Traded Funds".	
+We don't usually trade individual stocks. instead we trade something called Funds, Indexes and ETF's - which stands for "Exchangnge Traded Funds".	
 
 ## Mutual Funds. 
 A mutual fund is an open-end professionally managed investment fund that pools money from many investors to purchase securities. These investors may be retail or institutional in nature. The term is typically used in the United States, Canada, and India, while similar structures across the globe include the SICAV in Europe ('investment company with variable capital') and open-ended investment company (OEIC) in the UK.
@@ -123,7 +120,7 @@ An exchange-traded fund is an investment fund traded on stock exchanges, much li
 
 Invesco QQQ is an exchange-traded fund based on the Nasdaq-100 Index®. The Fund will, under most circumstances, consist of all of stocks in the Index. The Index includes 100 of the largest domestic and international nonfinancial companies listed on the Nasdaq Stock Market based on market capitalization. The Fund and the Index are rebalanced quarterly and reconstituted annually.
 
-Expect More Success in the Long Run.
+Expect more success in the long run.
 
 <a href="https://www.investopedia.com/articles/etfs/top-etfs-nasdaq/">Best (and only ) ETF to Track the Nasdaq for Q2 2020 </a>
 
@@ -139,7 +136,6 @@ Expect More Success in the Long Run.
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
 https://youtu.be/OwpFBi-jZVg What is an ETF?
-
 
 ## Fractional Shares and Fractional Trading
 
@@ -171,9 +167,6 @@ https://youtu.be/LxI12aUaabc Stock Market Indexes
 # Appendix D. Equities that can be traded on the stock market	
 
 	
-
-
-
 5.4 Trading Individual Stocks	
 
 5.5 Bonds	26
@@ -203,11 +196,6 @@ https://www.blackrock.com/us/individual
 
 Blackrock Alladin
 Aladdin is investment technology that brings efficiency and connectivity to institutional investors and wealth managers. The same technology that BlackRock relies on for investing, Aladdin provides clients with a common language across the investment lifecycle in both public and private assets and enables a culture of risk transparency among users. Aladdin technology empowers investors around the world to run with clarity.
-
-
-
-
-
 
 
 Stocks, 
