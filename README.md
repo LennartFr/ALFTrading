@@ -45,7 +45,7 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day.
 
-# Don't even think of doing to Day Trading!
+# Don't even think of doing Day Trading!
 
 # Stock Exchanges, where we buy and sell shares	
 
