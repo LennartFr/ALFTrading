@@ -36,7 +36,7 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 ## Active investment vs. passive investment	
 Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading.
 
-### You can not beat the market, at least not regularly.	
+## You can not beat the market, at least not regularly.	
 
 Over time the stock market will go up, as a result o the fact that most economies will grow overtime.
 It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourself. But it’s incredibly unlikely.
