@@ -83,6 +83,8 @@ So we begin by setting up an account on an investment app such as:
 
 To start we recomment stating with Webull.
 
+<IMG src="https://github.com/LennartFr/ALFTrading/blob/master/webull.jpg">
+
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
