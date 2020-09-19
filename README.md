@@ -1,4 +1,4 @@
-# Introduction to trading. 
+# Introduction to Stock Market trading. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
