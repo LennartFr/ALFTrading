@@ -75,10 +75,11 @@ Day trading is speculation in securities, specifically buying and selling financ
 
 So we begin by setting up an account at a brokerage house such as:
 
-# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>,
-# <a href="https://investor.vanguard.com/home">Vanguard</a>,
-# <a href="https://us.etrade.com/">E*TRADE</a>,
-# <a href="https://www.schwab.com/">Charles Schwab</a>
+# <a href="https://investor.vanguard.com/home">Vanguard</a>, Well-estalished investment advisor
+# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, Well-established trading platform
+# <a href="https://www.webull.com/">WeBull</a> Webull, leading geerationn X investent tools
+# <a href="https://robinhood.com/us/en/">Robinhood, Gen x Investing for everyone</a>
+# <a href="https://www.m1finance.com/">Gen X The Finance Super app</a>
 
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
