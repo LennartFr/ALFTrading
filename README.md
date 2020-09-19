@@ -73,22 +73,17 @@ Day trading is speculation in securities, specifically buying and selling financ
 
 ## We buy and sell shares on Stock Exchanges through brokerage houses.	
 
-So we begin by setting up an account at a brokerage house such as:
+So we begin by setting up an account on an investment app such as:
 
 # <a href="https://investor.vanguard.com/home">Vanguard</a>, Well-estalished investment advisor
 # <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, Well-established trading platform
-# <a href="https://www.webull.com/">WeBull</a> Webull, leading geerationn X investent tools
+# <a href="https://www.webull.com/">WeBull</a> Webull, leading geerationn X investent tool
 # <a href="https://robinhood.com/us/en/">Robinhood, Gen x Investing for everyone</a>
 # <a href="https://www.m1finance.com/">Gen X The Finance Super app</a>
 
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
-
-You can also bypass the brokerage houses and set up an account with a low-cost financial services company like
-<a href="https://robinhood.com/us/en/">Robinhood</a>, <a href="https://www.betterment.com/">Betterment</a> or M1 and essentially do the same thing.
-
-The major difference is that the newer financial services companies utilize the latest IT technologies in the form of low-cost Robo-advisors.
 
 Up intil a few years ago brokerage houses were fully manned by human brokers. But in the last few years computerized Robo-advisers, which
 provide digital financial advice based on mathematical algorithms have become increasingly prevalent. These algorithms are executed by software and thus financial advice does not require a human advisor. The software utilizes its algorithms to automatically allocate, manage and optimize clients' assets.
