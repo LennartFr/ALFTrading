@@ -45,7 +45,7 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day.
 
-# Don't even think of doing Day Trading!
+## Don't even think of doing Day Trading!
 
 # Stock Exchanges, where we buy and sell shares	
 
@@ -80,6 +80,8 @@ So we begin by setting up an account on an investment app such as:
 # <a href="https://www.webull.com/">WeBull</a> Webull, leading geerationn X investent tool
 # <a href="https://robinhood.com/us/en/">Robinhood, Gen x Investing for everyone</a>
 # <a href="https://www.m1finance.com/">Gen X The Finance Super app</a>
+
+To start we recomment stating with Webull.
 
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
 
