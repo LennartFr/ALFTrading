@@ -83,7 +83,7 @@ So we begin by setting up an account with an investment app such as:
 
 To start we recomment stating with Webull.
 
-https://youtu.be/k81xHO3j8do
+https://youtu.be/k81xHO3j8do   
 
 <IMG src="https://github.com/LennartFr/ALFTrading/blob/master/webull.jpg">
 
