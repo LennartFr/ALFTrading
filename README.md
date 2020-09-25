@@ -77,8 +77,8 @@ So we begin by setting up an account with an investment app such as:
 
 # <a href="https://investor.vanguard.com/home">Vanguard</a>, Well-estalished investment advisor
 # <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, Well-established trading platform
-# <a href="https://www.webull.com/">WeBull</a> Webull, leading generation X investment tool
-# <a href="https://robinhood.com/us/en/">Robinhood, Gen x Investing tool for everyone</a>
+# <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
+# <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool for everyone
 # <a href="https://www.m1finance.com/">Gen X The Finance Super app</a>
 
 To start we recomment stating with Webull.
