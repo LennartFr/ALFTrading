@@ -27,12 +27,11 @@ It’s  well neigh impossible to beat the market over time. In fact, all of the 
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
-## The major players:
+## The major components:
 
 # Stock Indexes, 
  help investors compare current price levels with past prices to calculate market performance.	
-
-There are three major stock indexes in the US, all located in New York City/
+ There are three major stock indexes in the US, all located in New York City/
 
 ##  Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
