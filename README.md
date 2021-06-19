@@ -2,8 +2,7 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
-
-This little monograph is an  introduction to how you can start investing in the stock market.  The most important thing to keep in mind when we start  investing is that while we certainly can make money in the stock market , we can also lose money. 
+This little monograph is an  introduction to investing in the stock market.  The most important thing to remember when we start  investing is that while we can make money in the stock market  we can also lose money in the stock market.. 
 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along.
 
@@ -21,21 +20,21 @@ Active investing refers to an investment strategy that involves ongoing buying a
 
 ## You can not beat the market, at least not regularly.	
 
-Over time the stock market will go up, as a result o the fact that most economies will grow overtime.
-It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourself. But it’s incredibly unlikely.
+Over time the stock market will go up, as a result o the fact that most economies will grow over time.
+It’s  well neigh impossible to beat the market over time. In fact, all of the data  show that a tiny percentage of professional investors are able to do it with at least some degree of consistency. It is possible for you to find one of those professionals and invest with him or her, or to be one of those investors yourselfn but it’s incredibly unlikely.
 
 ## Day Trading, don't even think of doing it.
 
-Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day.
+Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
-# Stock Index, 
-Is an index that measures a stock market that helps investors compare current price levels with past prices to calculate market performance.	
+## The major players:
+
+# Stock Indexes, 
+ help investors compare current price levels with past prices to calculate market performance.	
 
 There are three major stock indexes in the US, all located in New York City/
 
-##  Dow Jones Industrial Average
-
-The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
+##  Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
 ## <a href="https://www.nasdaq.com/">NASDAQ</a>,	
 
