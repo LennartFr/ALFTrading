@@ -5,11 +5,9 @@
 
 This little monograph is an  introduction to how you can start investing in the stock market.  The most important thing to keep in mind when we start  investing is that while we certainly can make money in the stock market , we can also lose money. 
 
-The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along
+The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along.
 
-
-
-# Trading concepts  
+### Trading concepts  
 
 ## Compound Interest.	
 
@@ -36,25 +34,18 @@ Day trading is speculation in securities, specifically buying and selling financ
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq.jpg" width=500>
 
+##  Dow Jones Industrial Average
+
+The Dow Jones Industrial Average (DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
+
 ## <a href="https://www.nasdaq.com/">NASDAQ</a> in New York City,	
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=500>
+###<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=500>
 
 ## <a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
 
-## <a href="https://www.jpx.co.jp/english/">Tokyo Stock Exchange</a>,
 
-## <a href="http://www.sse.com.cn/">Shanghai Stock Exchange (China)</a>,
 
-## <a href="https://www.euronext.com/enEuronext">Euronext</a>
-
-## <a href="https://www.londonstockexchange.com/">London Stock Exchange Group</a>
-
-## <a href="https://www.hkex.com.hk/?sc_lang=en">Hong Kong Exchanges and Clearing Market,</a>
-
-## <a href="http://www.szse.cn/English/index.htm">Shenzhen Stock Exchange (China)</a>,
-
-## <a href="https://www.deutsche-boerse.com/dbg-en/">Deutsche Börse Gemany</a>,
 
 ## We buy and sell shares on Stock Exchanges through brokerage houses.	
 
