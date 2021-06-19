@@ -6,7 +6,7 @@ This little monograph is an  introduction to investing in the US stock market.  
 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along.
 
-### Trading concepts  
+## Trading concepts  
 
 ## Compound Interest.	
 
@@ -33,7 +33,7 @@ Day trading is speculation in securities, specifically buying and selling financ
 Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
  There are three major stock indexes in the US, all located in New York City/
 
-##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, or simply the Dow, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
+##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
 ## 2) <a href="https://www.nasdaq.com/">NASDAQ</a>,	
 
@@ -47,13 +47,24 @@ The Nasdaq Stock Market is an American stock exchange based in New York City. It
 
 So we begin by setting up an account with an investment app such as:
 
-# <a href="https://investor.vanguard.com/home">Vanguard</a>, Well-estalished investment advisor
-# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, Well-established trading platform
+Brokerage Houses such as:
+
+# J.P. Morgan
+# Charles Schwab
+# Golman Sachs
+# Merrill Lynch
+# City Bank
+# Bank of America
+
+
+
+# <a href="https://investor.vanguard.com/home">Vanguard</a>, investment advisor
+# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, trading platform
 # <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
-# <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool for everyone
+# <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool
 # <a href="https://www.m1finance.com/">M1Finance </a>, The finance super app</a>
 
-<b>To start we recomment stating with Webull.</b>
+<b>To start we recommend stating with Webull.</b>
 
 https://youtu.be/k81xHO3j8do   
 
