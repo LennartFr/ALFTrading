@@ -8,21 +8,6 @@ This little monograph is an  introduction to how you can start investing in the 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along
 
 
-# Financial News
-
-<a href="https://finance.yahoo.com">Yahoo Finance</a>
-
-<a href="https://www.msn.com/en-us/news/money">Microsoft Money News</a>
-
-<a href="https://finance.google.com/finance">Google Finance News</a>
-
-<a href="https://money.cnn.com/data/markets/">CNN MarketNews</a>
-
-<a href="https://www.nzz.ch/finanzen">NZZ</a>
-
-<a href="https://www.bing.com/search?q=stock+market+news">Bing Stock Market News</a>
-
-<a href="https://www.thestreet.com/">The Street</a>
 
 # Trading concepts  
 
@@ -225,4 +210,22 @@ Collateral Lending Program,
     
   
 
-https://www.blackrock.com/aladdin
+https://www.blackrock.com/aladdin	
+	
+	
+# Financial News
+
+<a href="https://finance.yahoo.com">Yahoo Finance</a>
+
+<a href="https://www.msn.com/en-us/news/money">Microsoft Money News</a>
+
+<a href="https://finance.google.com/finance">Google Finance News</a>
+
+<a href="https://money.cnn.com/data/markets/">CNN MarketNews</a>
+
+<a href="https://www.nzz.ch/finanzen">NZZ</a>
+
+<a href="https://www.bing.com/search?q=stock+market+news">Bing Stock Market News</a>
+
+<a href="https://www.thestreet.com/">The Street</a>
+	
