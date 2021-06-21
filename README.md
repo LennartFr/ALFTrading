@@ -1,5 +1,5 @@
 # Introduction to Stock Market trading. 
-
+      
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
 This little monograph is an  introduction to investing in the US stock market.  The most important thing to remember when we start  investing is that while we can make money in the stock market  we can also lose money in the stock market.. 
