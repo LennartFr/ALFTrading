@@ -2,17 +2,15 @@
       
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
-This little monograph is an  introduction to investing in the US stock market.  The most important thing to remember when we start  investing is that while we can make money in the stock market  we can also lose money in the stock market. 
+The Nasdaq Stock Market is an American stock exchange based in New York City. It is ranked second on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
 
-The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along.
+This little monograph is an  introduction to investing in the US stock market. 
 
-The US finance industry isfocused in New York City with Wall Street and the New York Stock Exchange, located on 11 Wall Street.
+The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street.
 
 ![image](https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png)
 
-
-Stock exchanges go back to the 17th century
-
+Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New Yrk Stock Exchange one typically goes thru a stock broker like Charles Schwab. Stock Broker companies usually provides investment advisers who, for a fee, advises customers on successful financial strategies.  
 
 ## Trading concepts  
 
@@ -31,8 +29,6 @@ Active investing refers to an investment strategy that involves ongoing buying a
 
 ## You can not beat the market, at least not regularly.	
 
-
-
 Given enough time, the stock market will inveriably go up, given the fact that most economies will grow over time.
 A rorolaggy it thay it’s  well neigh impossible to beat the market over time. In fact, only a tiny percentage of professional investors are able to do so with at least some degree of consistency. It is not impossible for you to find one of these superprofessionals and invest with him or her, or to become one of those investors yourself. But it’s incredibly unlikely.
 
@@ -41,6 +37,8 @@ A rorolaggy it thay it’s  well neigh impossible to beat the market over time. 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
 ## Major components of the trading system:
+
+A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange
 
 # Stock Indexes
 Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
