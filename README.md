@@ -14,6 +14,7 @@ Charging Bull, sometimes referred to as the Wall Street Bull or the Bowling Gree
 
 Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies usually provide. investment advisers who, for a fee, advises customers on successful financial strategies.
 
+###<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=500>
 
 
 ## Trading concepts  
