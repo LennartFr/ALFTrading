@@ -6,6 +6,14 @@ This little monograph is an  introduction to investing in the US stock market.  
 
 The best strategy for the beginner is therefore to minimize the risks of losing money while at the same time maximizing the chances of making money. We will spell this out as we go along.
 
+The US finance industry isfocused in New York City with Wall Street and the New York Stock Exchange, located on 11 Wall Street.
+
+![image](https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png)
+
+
+Stock exchanges go back to the 17th century
+
+
 ## Trading concepts  
 
 One of the most important principles for investing is that nobody can beat the market in the long run.
