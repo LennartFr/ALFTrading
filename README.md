@@ -31,7 +31,8 @@ Day trading is speculation in securities, specifically buying and selling financ
 
 # Stock Indexes
 Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
- There are three major stock indexes in the US, all located in New York City/
+ There are three major stock indexes in the US, all located in 
+ 
 
 ##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
@@ -55,8 +56,6 @@ Brokerage Houses such as:
 # Merrill Lynch
 # City Bank
 # Bank of America
-
-
 
 # <a href="https://investor.vanguard.com/home">Vanguard</a>, investment advisor
 # <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, trading platform
