@@ -2,7 +2,7 @@
       
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
 
-The Nasdaq Stock Market is an American stock exchange based in New York City. It is ranked second on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
+The Nasdaq Stock Market is an American stock exchange based in New York City. It is ranked second on the list of global stock exchanges by market capitalization of shares traded, behind the 
 
 This little monograph is an  introduction to investing in the US stock market. 
 
