@@ -12,7 +12,9 @@ The US finance industry is based in New York City with Wall Street and the New Y
 
 Charging Bull, sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan in New York City. 
 
-Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New Yrk Stock Exchange one typically goes thru a stock broker like Charles Schwab. Stock Broker companies usually provides investment advisers who, for a fee, advises customers on successful financial strategies.  
+Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies usually provide. investment advisers who, for a fee, advises customers on successful financial strategies.
+
+
 
 ## Trading concepts  
 
