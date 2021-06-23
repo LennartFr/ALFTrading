@@ -8,7 +8,7 @@ NASDAQ is the second largest stock market on the list of global stock exchanges 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
-![image](https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png)
+<image src="https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png">
 
 Charging Bull representing the stockmarket is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan in New York City. 
 
