@@ -4,19 +4,19 @@ The US finance industry is based in New York City with Wall Street and the New Y
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
 
-NASDAW is the second largest stock market on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
+NASDAQ is the second largest stock market on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
 ![image](https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png)
 
-Charging Bull, sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan in New York City. 
+Charging Bull representing the stockmarket is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan in New York City. 
 
 Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies usually provide. investment advisers who, for a fee, advises customers on successful financial strategies.
 
 ## Trading concepts  
 
-One of the most important principles for investing is that nobody can beat the market in the long run.
+One of the most important principles for investing is that nobody, no matter how skilled, can beat the market in the long run.
 To learn more about this principle read up on Bernie Madoff https://en.wikipedia.org/wiki/Bernie_Madoff
 
 ## Compound Interest.	
@@ -27,20 +27,20 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
 ## Active investment vs. passive investment	
-Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading.
+Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading. And stay away from Day Trading for the simpe reason that ou will not beat the market as a day trader.
 
-## You can not beat the market, at least not regularly.	
-
+Passive investent on the other hand refers to ivestors whu buy a set of shares and then keep them for years and decades.	
+		
+## You can not beat, i.e. outperform the market, at least not regularly.	
+	
 Given enough time, the stock market will inveriably go up, given the fact that most economies will grow over time.
 A rorolaggy it thay it’s  well neigh impossible to beat the market over time. In fact, only a tiny percentage of professional investors are able to do so with at least some degree of consistency. It is not impossible for you to find one of these superprofessionals and invest with him or her, or to become one of those investors yourself. But it’s incredibly unlikely.
-
-## Day Trading, don't even think of doing it.
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
 ## Major components of the trading system:
 
-A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange
+A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange, etc.
 
 # Stock Indexes
 Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
@@ -72,7 +72,7 @@ Brokerage Houses such as:
 
 # <a href="https://investor.vanguard.com/home">Vanguard</a>, investment advisor
 # <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, trading platform
-# <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
+#         <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
 # <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool
 # <a href="https://www.m1finance.com/">M1Finance </a>, The finance super app</a>
 
