@@ -1,40 +1,39 @@
 # Introduction to Stock Market trading. 
 
-The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street.
+The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street. There is also a strong off-shoot in Chicago.
 
 <a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
 
-NASDAQ is the second largest stock market on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
+NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
-Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advises customers on successful financial strategies.
+Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like, for example, Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advise customers on financial strategies.
 
 ## Trading concepts  
 
-One of the most important principles for investing is that nobody, no matter how skilled, can beat, i.e. outperform the market in the long run.
+One of the most important principles for investing is that nobody, no matter how skilled, can outperform the market in the long run.
 To learn more about this principle read up on Bernie Madoff: https://en.wikipedia.org/wiki/Bernie_Madoff
 
 ## Compound Interest.	
 
-Compound interest is the most important principle of investing. It says that if you invest and actively keep investing over several years, the interest on your investment will grow exponentially, as the picture below illustrates. Of course, as always, you can also risk losing money.
-Your investment strategy should  be to minimize your losses and maximize your gains
+Compound interest is the most important principle of investing. It says that if you invest and actively keep investing over several years, the interest on your investment will grow exponentially, as the picture below illustrates. Of course, as always, you can also  lose money.
+Your investment strategy should always be two-pronged, to minimize your losses and maximize your gains
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
 ## Active investment vs. passive investment	
-Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading. And stay away from Day Trading for the simpe reason that ou will not beat the market as a day trader.
+Active investing refers to ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading. One should stay away from Day Trading for the simpe reason that you will no matter what you will not be able to outperform the market as a day trader. Day Trading is also technically and financially extremely very complicated.
 
-Passive investent on the other hand refers to ivestors who buy a set of shares and then keep them for years and decades.	
-		
-## You can not beat, i.e. outperform the market, at least not regularly.	
+Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
+	
+Passive investent on the other hand refers to investors who buy a set of shares and then simply keep them for years and decades	
 	
 Given enough time, the stock market will inveriably go up, given the fact that most economies will grow over time.
-A cororolary it that it’s well neigh impossible for stock pickers to outperform the market over time. In fact, only a tiny percentage of professional investors are able to do so with at least some degree of consistency. It is not impossible for you to find one of these superprofessionals and invest with him or her, or to become one of those investors yourself. But it’s incredibly unlikely.
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
-## Major components of the trading system:
+## Major components of the stock trading system:
 
 A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange, etc.
 
@@ -52,14 +51,10 @@ The Nasdaq Stock Market is an American stock exchange based in New York City. It
 
 ## <a href="https://www.nyse.com/index">The New York Stock Exchange</a> in New York City,
 
-## We buy and sell shares on Stock Exchanges through brokerage houses.	
+## To buy and sell shares on a Stock Exchange we first set up an account with a brokerage firm, such as:	
 
-So we begin by setting up an account with an investment app such as:
-
-Brokerage Houses such as:
-
-<a href="https://am.jpmorgan.com/us/en/asset-management/J.P. Morgan Asset Management</a>
-<a href="https://www.schwab.com/>Charles Scwab</a>
+<a href="https://am.jpmorgan.com/us/en/asset-management/">J.P. Morgan Asset Management</a>
+<a href="https://www.schwab.com/>"Charles Scwab</a>
 <a href=Goldman Sachs</a>
 <a href="<Merrill Lynch</a>
 <a href="City Bank</a>
