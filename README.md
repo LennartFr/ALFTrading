@@ -8,16 +8,12 @@ NASDAQ is the second largest stock market on the list of global stock exchanges 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
-<image src="https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png">
-
-Charging Bull representing the stockmarket is a bronze sculpture that stands on Broadway just north of Bowling Green in the Financial District of Manhattan in New York City. 
-
-Anyone with sufficient money can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies usually provide. investment advisers who, for a fee, advises customers on successful financial strategies.
+Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advises customers on successful financial strategies.
 
 ## Trading concepts  
 
-One of the most important principles for investing is that nobody, no matter how skilled, can beat the market in the long run.
-To learn more about this principle read up on Bernie Madoff https://en.wikipedia.org/wiki/Bernie_Madoff
+One of the most important principles for investing is that nobody, no matter how skilled, can beat, i.e. outperform the market in the long run.
+To learn more about this principle read up on Bernie Madoff: https://en.wikipedia.org/wiki/Bernie_Madoff
 
 ## Compound Interest.	
 
@@ -29,12 +25,12 @@ Your investment strategy should  be to minimize your losses and maximize your ga
 ## Active investment vs. passive investment	
 Active investing refers to an investment strategy that involves ongoing buying and selling activity by the investor. Active investors purchase investments and continuously monitor their activity to exploit profitable conditions. Active investing is highly involved and goes under the name of Day Trading. And stay away from Day Trading for the simpe reason that ou will not beat the market as a day trader.
 
-Passive investent on the other hand refers to ivestors whu buy a set of shares and then keep them for years and decades.	
+Passive investent on the other hand refers to ivestors who buy a set of shares and then keep them for years and decades.	
 		
 ## You can not beat, i.e. outperform the market, at least not regularly.	
 	
 Given enough time, the stock market will inveriably go up, given the fact that most economies will grow over time.
-A rorolaggy it thay it’s  well neigh impossible to beat the market over time. In fact, only a tiny percentage of professional investors are able to do so with at least some degree of consistency. It is not impossible for you to find one of these superprofessionals and invest with him or her, or to become one of those investors yourself. But it’s incredibly unlikely.
+A cororolary it that it’s well neigh impossible for stock pickers to outperform the market over time. In fact, only a tiny percentage of professional investors are able to do so with at least some degree of consistency. It is not impossible for you to find one of these superprofessionals and invest with him or her, or to become one of those investors yourself. But it’s incredibly unlikely.
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
 
@@ -44,9 +40,8 @@ A key component in the global financial industry is the Stock Exchange, such as 
 
 # Stock Indexes
 Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
- There are three major stock indexes in the US, all located in 
+ There are three major stock indexes in the US. 
  
-
 ##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
 ## 2) <a href="https://www.nasdaq.com/">NASDAQ</a>,	
