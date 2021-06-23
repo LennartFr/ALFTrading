@@ -63,26 +63,21 @@ So we begin by setting up an account with an investment app such as:
 
 Brokerage Houses such as:
 
-# J.P. Morgan
-# Charles Schwab
+	# <a href="https://am.jpmorgan.com/us/en/asset-management/J.P. Morgan Asset Management</a>
+		#  <a href="https://www.schwab.com/>Charles Scwab</a>
 # Golman Sachs
 # Merrill Lynch
 # City Bank
 # Bank of America
-
 # <a href="https://investor.vanguard.com/home">Vanguard</a>, investment advisor
 # <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, trading platform
 #         <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
 # <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool
 # <a href="https://www.m1finance.com/">M1Finance </a>, The finance super app</a>
 
-<b>To start we recommend stating with Webull.</b>
+https://youtu.be/k81xHO3j8do 
 
-https://youtu.be/k81xHO3j8do   
-
-<IMG src="https://github.com/LennartFr/ALFTrading/blob/master/webull.jpg">
-
-Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. You pay the brokerage firm a small sum for each trade.
+Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
 
