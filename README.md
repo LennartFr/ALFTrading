@@ -2,11 +2,11 @@
 
 The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street.
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
 
 NasDaq is the second largest stock market on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg" witdh=600><p>
 
 ![image](https://user-images.githubusercontent.com/2830369/122832303-024af800-d2a0-11eb-80ba-1553d87bad02.png)
 
