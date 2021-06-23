@@ -89,7 +89,7 @@ Once you have set up an account at a broker you can trade things like
 
 https://youtu.be/fVGKrmNDQ7A
 
-## Trading Strategies	
+## What we trade: primarily Index Funds and Exchange-traded unds (ETFs)	
 
 What can we trade on the stockmarket?
 
