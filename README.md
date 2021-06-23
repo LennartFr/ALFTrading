@@ -38,8 +38,12 @@ Day trading is speculation in securities, specifically buying and selling financ
 A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange, etc.
 
 # Stock Indexes
-Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
- There are three major stock indexes in the US. 
+ Stock Indexes help investors compare current price levels with past prices to calculate market performance.	
+ There are three major stock indexes and spproximately 5,000 total number of indexes in the US.
+	
+The three most widely followed indexes in the U.S. are the S&P 500, Dow Jones Industrial Average, and Nasdaq Composite.
+The Wilshire 5000 includes all the stocks from the U.S. stock market.
+Indexes are generally by capitalization and sector segregation.
  
 ##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
 
