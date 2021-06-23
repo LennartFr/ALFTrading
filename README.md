@@ -45,7 +45,7 @@ The three most widely followed indexes in the U.S. are the S&P 500, Dow Jones In
 The Wilshire 5000 includes all the stocks from the U.S. stock market.
 Indexes are generally by capitalization and sector segregation.
  
-##  1) Dow Jones Industrial Average <a href="https://www.google.com/search?q=djia&sxsrf=ALeKk00iWQnlfeU0c-s6bwXPb9ytoDzoNA%3A1624128613434&source=hp&ei=ZTzOYMfRF46V-wSwrpS4BA&iflsig=AINFCbYAAAAAYM5KdTXXQSUYdpAzty1cGgQDN9VOIDhe&oq=djia"> The Dow Jones Industrial Average </a>(DJIA), Dow Jones, is a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States.
+##  1) <a href="https://www.msn.com/en-us/money/stockdetails/fi-a6qja2?duration=1D">Dow Jones Industrial Average</a>
 
 ## 2) <a href="https://www.nasdaq.com/">NASDAQ</a>,	
 
