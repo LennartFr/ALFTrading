@@ -2,7 +2,7 @@
 
 The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street.
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
+<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
 
 NASDAQ is the second largest stock market on the list of global stock exchanges by market capitalization of shares traded, behind the New York Stock Exchange. 
 
@@ -63,17 +63,16 @@ So we begin by setting up an account with an investment app such as:
 
 Brokerage Houses such as:
 
-	# <a href="https://am.jpmorgan.com/us/en/asset-management/J.P. Morgan Asset Management</a>
-		#  <a href="https://www.schwab.com/>Charles Scwab</a>
-# Golman Sachs
-# Merrill Lynch
-# City Bank
-# Bank of America
-# <a href="https://investor.vanguard.com/home">Vanguard</a>, investment advisor
-# <a href="https://www.tdameritrade.com/">TD Ameritrade</a>, trading platform
-#         <a href="https://www.webull.com/">WeBull</a> Leading generation X investment tool
-# <a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool
-# <a href="https://www.m1finance.com/">M1Finance </a>, The finance super app</a>
+<a href="https://am.jpmorgan.com/us/en/asset-management/J.P. Morgan Asset Management</a>
+<a href="https://www.schwab.com/>Charles Scwab</a>
+<a href=Goldman Sachs</a>
+<a href="<Merrill Lynch</a>
+<a href="City Bank</a>
+<a href="Bank of America"></a>
+<a href="https://investor.vanguard.com/home">Vanguard</a>
+<a href="https://www.tdameritrade.com/">TD Ameritrade</a
+<a href="https://robinhood.com/us/en/">Robinhood, </a> Gen x Investing tool
+<a href="https://www.m1finance.com/">M1Finance </a>, The finance super app</a>
 
 https://youtu.be/k81xHO3j8do 
 
