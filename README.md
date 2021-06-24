@@ -1,11 +1,20 @@
 # Introduction to Stock Market trading. 
 
-The US economy is made up of a large number of private companies, that all issue stocks, also known as equities.
+The US economy is made up of a large number of private companies, that all issue stocks, also known as equities, to raise money to help finance their activities.
+
+The stocks all have a dollar value and can be bought and sold by anyone. The value of the stocks is determined by how successful
+the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the
+company is in the economy. The vaue will change daily.
+
+The stocks are traded on stock markets such as the New York Stock Exchange. A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
+
 The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into sbunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
 The Nasdaq 100 Index can be split off from th main Nasdaq index.
 
-The S&P MidCap 400 and SmallCap 600 can be split off from the Nasdaq Composite Index.
+The S&P MidCap 400 and SmallCap 600 can be split off from the  
+
+Nasdaq Composite Index.
 
 And all US stocks can be traded on the New York Stock Exchange.
 
