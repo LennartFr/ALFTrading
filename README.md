@@ -18,7 +18,7 @@ Nasdaq Composite Index.
 
 And all US stocks can be traded on the New York Stock Exchange.
 
-<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
+<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg", width=600><p>
 
 NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
 
