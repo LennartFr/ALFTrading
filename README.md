@@ -14,7 +14,7 @@ company is in the economy. The vaue will change daily.
 
 The stocks are traded on stock markets such as the New York Stock Exchange. A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
 
-The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into sbunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
+The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
 The Nasdaq 100 Index can be split off from the main Nasdaq index.
 
@@ -156,6 +156,9 @@ Expect more success in the long run.
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/what-is-an-etf.jpg" witdh=500>
 
 https://youtu.be/OwpFBi-jZVg What is an ETF?
+
+
+# Lets begin to trade! 
 
 ## Fractional Shares and Fractional Trading
 
