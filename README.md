@@ -55,8 +55,6 @@ Passive investent on the other hand refers to investors who buy a set of shares 
 	
 Given enough time, the stock market will inveriably go up, given the fact that most economies will grow over time.
 
-Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. You will not make mnoney Day Trading so don't even think about
-
 ## Major components of the stock trading system:
 
 A key component in the global financial industry is the Stock Exchange, such as the New York Stock Exchange, the Nasdaq Stock Exchange also in New York City. and the Tokyo Stock Exchange, the,Shanghai Stock Exchange and Hong Kong Stock Exchange, etc.
