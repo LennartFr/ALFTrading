@@ -1,12 +1,10 @@
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
-	
-<a href="https://www.nasdaq.com/">NASDAQ</a>
-
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600>
 
 
 # Introduction to Stock Market trading. 
+
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600>
 
 The US economy is made up of a large number of private companies, that all issue stocks, also known as equities, to raise money to help finance their activities.
 
