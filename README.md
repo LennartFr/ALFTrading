@@ -1,3 +1,7 @@
+
+
+<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg", width=600><p>
+
 # Introduction to Stock Market trading. 
 
 The US economy is made up of a large number of private companies, that all issue stocks, also known as equities, to raise money to help finance their activities.
@@ -17,8 +21,6 @@ The S&P MidCap 400 and SmallCap 600 can be split off from the
 Nasdaq Composite Index.
 
 And all US stocks can be traded on the New York Stock Exchange.
-
-<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg", width=600><p>
 
 NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
 
