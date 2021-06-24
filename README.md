@@ -1,6 +1,13 @@
 # Introduction to Stock Market trading. 
 
-The US finance industry is based in New York City with Wall Street and the New York Stock Exchange, which goes back to 1792, located on 11 Wall Street. There is also a strong off-shoot in Chicago.
+The US economy is made up of a large number of private companies, that all issue stocks, also known as equities.
+The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into sbunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
+
+The Nasdaq 100 Index can be split off from th main Nasdaq index.
+
+The S&P MidCap 400 and SmallCap 600 can be split off from the Nasdaq Composite Index.
+
+And all US stocks can be traded on the New York Stock Exchange.
 
 <a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg" width=600><p>
 
