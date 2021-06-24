@@ -8,7 +8,7 @@
 
 The US economy is made up of a large number of private companies, that all issue stocks, also known as equities, to raise money to help finance their activities.
 
-The stocks all have a dollar value and can be bought and sold by anyone. The value of the stocks is determined by how successful
+The stocks all have a dollar value and can be bought and sold by anyone through a stock broker. The value of the stocks is determined by how successful
 the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the
 company is in the economy. The vaue will change daily.
 
