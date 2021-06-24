@@ -28,11 +28,7 @@ And all US stocks can be traded on the New York Stock Exchange.
 
 NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
 
-	
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
 
-	
-	
 Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like, for example, Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advise customers on financial strategies.
 
 ## Trading concepts  
