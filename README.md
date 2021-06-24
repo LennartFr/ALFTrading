@@ -70,6 +70,13 @@ The Nasdaq Stock Market is an American stock exchange based in New York City. It
 
 https://youtu.be/k81xHO3j8do 
 
+Three-bucket strategy
+
+FANG stocksPassive ETF Stocks
+
+No Load Mutual Funds
+
+
 Brokers from authorized brokeragehouses do the actual buying and selling on the floor at the various Stock Exchanges. You as an investor enter your buy and sell orders in your brokerage account that you have set up with a brokerage firm. 
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/robinhood.png" width=500>
