@@ -112,7 +112,7 @@ The success of the robo-avise technology has let the traditional brokerhouses to
 
 Some Good introductory Youtube videos:
 
-https://youtu.be/dFAiChOmoGI Stockmarket for Beginners, How to invest.
+https://youtu.be/dFAiChOmoGI Stockmarket for beginners, How to invest.
 
 https://youtu.be/ZCFkWDdmXG8 How does the stockmarket work?
     
@@ -157,8 +157,23 @@ Expect more success in the long run.
 
 https://youtu.be/OwpFBi-jZVg What is an ETF?
 
+# Lets begin to trade!!
 
-# Lets begin to trade! 
+STEP 1: We'll begin by open an account with a brokerage house online. This can be a traditional brokerge house or a Generaton Z investment tool like Robin Hood. 
+
+There should be no fee involved.
+
+STEP 2: We'll set aside $100 from our salary ech month that we will invest in the stock market. This will be money we will
+not touch once it has been ivested.
+
+
+
+
+
+
+
+
+
 
 ## Fractional Shares and Fractional Trading
 
