@@ -34,6 +34,11 @@ Anyone can buy and sell shares on a stock exchange. To buy shares of a company s
 One of the most important principles for investing is that nobody, no matter how skilled, can outperform the market in the long run.
 To learn more about this principle read up on Bernie Madoff: https://en.wikipedia.org/wiki/Bernie_Madoff
 
+
+Day tradign makes use of Candlestic Charts <a href="https://en.wikipedia.org/wiki/Candlestick_chart">A candlestick chart (also called Japanese candlestick chart) is </a> a style of financial chart used to describe price movements of a security, derivative, or currency. Each "candlestick" typically shows one day, thus a one-month chart may show the 20 trading days as 20 candlesticks.[1] Candlestick charts can also be built using intervals shorter or longer than one day.https://en.wikipedia.org/wiki/Candlestick_chart
+
+A candlestick chart (also called Japanese candlestick chart) is a style of financial chart used to describe price movements of a security, derivative, or currency. Each "candlestick" typically shows one day, thus a one-month chart may show the 20 trading days as 20 candlesticks.[1] Candlestick charts can also be built using intervals shorter or longer than one day.
+
 ## Compound Interest.	
 
 Compound interest is the most important principle of investing. It says that if you invest and actively keep investing over several years, the interest on your investment will grow exponentially, as the picture below illustrates. Of course, as always, you can also  lose money.
