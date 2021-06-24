@@ -16,7 +16,7 @@ The stocks are traded on stock markets such as the New York Stock Exchange. A St
 
 The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into sbunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
-The Nasdaq 100 Index can be split off from th main Nasdaq index.
+The Nasdaq 100 Index can be split off from the main Nasdaq index.
 
 The S&P MidCap 400 and SmallCap 600 can be split off from the  
 
