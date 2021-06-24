@@ -1,5 +1,7 @@
 
 
+<a href="https://www.nasdaq.com/">NASDAQ</a>
+
 <a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg", width=600><p>
 
 # Introduction to Stock Market trading. 
