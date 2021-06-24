@@ -2,7 +2,7 @@
 
 <a href="https://www.nasdaq.com/">NASDAQ</a>
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg", width=600>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600>
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" width=500>
 	
