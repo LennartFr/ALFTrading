@@ -1,11 +1,11 @@
 
-
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
+	
 <a href="https://www.nasdaq.com/">NASDAQ</a>
 
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600>
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" width=500>
-	
+
 # Introduction to Stock Market trading. 
 
 The US economy is made up of a large number of private companies, that all issue stocks, also known as equities, to raise money to help finance their activities.
@@ -27,8 +27,6 @@ Nasdaq Composite Index.
 And all US stocks can be traded on the New York Stock Exchange.
 
 NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
-
-<a href="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
 	
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/Compound-Interest-Calculator.png" witdh=500>
