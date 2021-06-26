@@ -1,8 +1,3 @@
-
-<font sie="40">
-  ALFTrading
-</font>
-
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nasdaq1.jpg">
 
 
