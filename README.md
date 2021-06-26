@@ -13,7 +13,7 @@ US stocks all have a dollar value and can be bought and sold by anyone through a
 A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
 
 The equities can be divided into <b>three major lists or indexes </b>, namely 1) the <a href="https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average">Dow Jones Industrial Index</a>, a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States, 
-and 2) 	<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">the Standard & Poor's 500 Index</a>, a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies. It is one of the most commonly followed equity indices. There is over $4.6 trillion invested in assets tied to the performance of the index and the Nasdaq.
+and 2) 	<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">the Standard & Poor's 500 Index</a>, a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies, and the <a ref="https://www.nasdaq.com/">Nasdaq</a>. There is over $4.6 trillion invested in assets tied to the performance of the index and the Nasdaq.
 	
 These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
