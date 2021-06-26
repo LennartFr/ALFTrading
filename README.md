@@ -10,24 +10,20 @@ The US economy is made up of private companies that all issue stocks, also known
 
 US stocks all have a dollar value and can be bought and sold by anyone through a stock broker connected to the New York stock exchange, or another US stock exchange. The value of the stocks is determined by how successful the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the company is in the economy. The vaue will change daily.
 
-A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
+A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men, today often electronic agents, for the buyers and sellers. 
 
 The equities can be divided into <b>three major lists or indexes </b>, namely 1) the <a href="https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average">Dow Jones Industrial Index</a>, a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States, 
-and 2) 	<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">the Standard & Poor's 500 Index</a>, a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies, and the <a ref="https://www.nasdaq.com/">Nasdaq</a>. There is over $4.6 trillion invested in assets tied to the performance of the index and the Nasdaq.
-	
+and 2) 	<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">the Standard & Poor's 500 Index</a>, a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies and, 3) the <a ref="https://www.nasdaq.com/">Nasdaq</a>.
+	 
 These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
 The Nasdaq 100 Index can be split off from the main Nasdaq index.
 
 The S&P MidCap 400 and SmallCap 600 can be split off from the  
 
-Nasdaq Composite Index.
+Nasdaq Composite Index. NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
 
-And all US stocks can be traded on the New York Stock Exchange.
-
-NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
-
-Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like, for example, Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advise customers on financial strategies.
+Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like, for example, Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advise customers on financial strategies. And today human brokers are more and more replacded by electronic 
 
 ## Trading concepts  
 
