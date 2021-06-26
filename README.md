@@ -12,7 +12,7 @@ US stocks all have a dollar value and can be bought and sold by anyone through a
 
 A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
 
-The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
+The equities can be divided into three major lists or indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
 The Nasdaq 100 Index can be split off from the main Nasdaq index.
 
