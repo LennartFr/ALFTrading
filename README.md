@@ -3,7 +3,8 @@
 
 # Introduction to Stock Market trading. 
 
-<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600>
+<img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600><p>
+The trading floor of the New York Stoc Exchange. Today trading is is done electronically. 
 
 The US economy is made up of a large number of private companies. These companies all issue stocks, also known as equities, to raise money to help finance their activities. For new companies the first step is an <b>initial public offering (IPO) or stock launch</b>. An IPO  is a public offering in which shares of a company are sold to institutional investors and usually also retail (individual) investors. 
 
