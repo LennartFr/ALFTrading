@@ -12,11 +12,10 @@ US stocks all have a dollar value and can be bought and sold by anyone through a
 
 A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
 
-	The equities can be divided into <b>three major lists or indexes </b>, namely the <a href="https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average"><b>Dow Jones Industrial Index</a>, a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States, 
+The equities can be divided into <b>three major lists or indexes </b>, namely 1) the <a href="https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average">Dow Jones Industrial Index</a>, a price-weighted measurement stock market index of the 30 prominent companies listed on stock exchanges in the United States, 
+and 2) 	<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">the Standard & Poor's 500 Index</a>, a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies. It is one of the most commonly followed equity indices. There is over $4.6 trillion invested in assets tied to the performance of the index and the Nasdaq.
 	
-<a href="https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview">The S&P 500 Index, or the Standard & Poor's 500 Index</a> , is a market-capitalization-weighted index of the 500 largest U.S. publicly traded companies. The S&P is a float-weighted index, meaning company market capitalizations are adjusted by the number of shares available for public trading. The Standard and Poor's 500, or simply the S&P 500, a stock market index tracking the stock performance of 500 of the largest companies listed on stock exchanges in the United States. It is one of the most commonly followed equity indices. There is over $4.6 trillion invested in assets tied to the performance of the index.
-	
-	These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
+These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
 The Nasdaq 100 Index can be split off from the main Nasdaq index.
 
