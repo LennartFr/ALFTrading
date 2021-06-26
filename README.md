@@ -6,7 +6,7 @@
 <img src="https://github.com/LennartFr/ALFTrading/blob/master/img/nyse.jpg"  width=600><p>
 The trading floor of the New York Stoc Exchange. Today trading is is done electronically. 
 
-The US economy is made up of a large number of private companies. These companies all issue stocks, also known as equities, to raise money to help finance their activities. For new companies the first step is an <b>initial public offering (IPO) or stock launch</b>. An IPO  is a public offering in which shares of a company are sold to institutional investors and usually also retail (individual) investors. 
+The US economy is made up of private companies that all issue stocks, also known as equities, to raise money to help finance their activities. For new companies the first step is an <b>initial public offering (IPO) or stock launch</b>. An IPO  is a public stock offering in which shares of a company are sold to institutional investors and usually also retail (individual) investors. 
 
 US stocks all have a dollar value and can be bought and sold by anyone through a stock broker connected to the New York stock exchange, or another us stock exchange. The value of the stocks is determined by how successful the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the company is in the economy. The vaue will change daily.
 
