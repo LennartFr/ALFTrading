@@ -8,11 +8,9 @@
 
 The US economy is made up of a large number of private companies. These companies all issue stocks, also known as equities, to raise money to help finance their activities. For new companies the first step is an <b>initial public offering (IPO) or stock launch</b>. An IPO  is a public offering in which shares of a company are sold to institutional investors and usually also retail (individual) investors. 
 
-The stocks all have a dollar value and can be bought and sold by anyone through a stock broker. The value of the stocks is determined by how successful
-the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the
-company is in the economy. The vaue will change daily.
+US stocks all have a dollar value and can be bought and sold by anyone through a stock broker connected to the New York stock exchange, or another us stock exchange. The value of the stocks is determined by how successful the company is in the economy. A stock can and will grow in value and fall in value depending on how successful the issuing the company is in the economy. The vaue will change daily.
 
-The stocks are traded on stock markets such as the New York Stock Exchange. A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
+A Stock Exchange can be conceptualized into buyers, sellers and Stock Brokers. Stock Brokers are middle-men for the buyers and sellers. 
 
 The equities can be divided into three major indexes, namely the Dow Jones Industrial Index, the S&P 500 Index and the Nasdaq Composite Index. These three major indexes can in turn be divided into subunits, such as the Dow Jones Transportation Average, the Dow Jones Utility Average, the Dow Jones Total Stock Market, and Barron's 400.
 
@@ -25,7 +23,6 @@ Nasdaq Composite Index.
 And all US stocks can be traded on the New York Stock Exchange.
 
 NASDAQ is the second largest american stock market by market capitalization of shares traded, behind the New York Stock Exchange. 
-
 
 Anyone can buy and sell shares on a stock exchange. To buy shares of a company stock on the New York Stock Exchange one typically goes thru a stock broker financial company like, for example, Charles Schwab. Stock Broker companies also usually provide investment advisers who, for a fee, advise customers on financial strategies.
 
